@@ -1,0 +1,2361 @@
+,content_id,content_type,language,genre,runtime
+0,CJSMBEACT2e633,Movie,Bengali,Action,90
+1,CJSMBEACT34aec,Movie,Bengali,Action,135
+2,CJSMBEACT83b46,Movie,Bengali,Action,120
+3,CJSMBECOM12e7a,Movie,Bengali,Comedy,120
+4,CJSMBECOM5431a,Movie,Bengali,Comedy,135
+5,CJSMBECOMcef10,Movie,Bengali,Comedy,120
+6,CJSMBEDRA3f060,Movie,Bengali,Drama,150
+7,CJSMBEDRA46aa5,Movie,Bengali,Drama,90
+8,CJSMBEDRA73058,Movie,Bengali,Drama,120
+9,CJSMBEDRA79ce1,Movie,Bengali,Drama,135
+10,CJSMBEDRA9a726,Movie,Bengali,Drama,180
+11,CJSMBEDRAa18a0,Movie,Bengali,Drama,120
+12,CJSMBEDRAa5c89,Movie,Bengali,Drama,120
+13,CJSMBEDRAc906a,Movie,Bengali,Drama,135
+14,CJSMBEDRAda274,Movie,Bengali,Drama,120
+15,CJSMBEDRAde98b,Movie,Bengali,Drama,120
+16,CJSMBEDRAec743,Movie,Bengali,Drama,135
+17,CJSMBEFAN32a83,Movie,Bengali,Fantasy,120
+18,CJSMBEFAN5adb5,Movie,Bengali,Fantasy,150
+19,CJSMBEFAN9ac36,Movie,Bengali,Fantasy,135
+20,CJSMBEROM29b4f,Movie,Bengali,Romance,90
+21,CJSMBEROM329ec,Movie,Bengali,Romance,120
+22,CJSMBEROM3e538,Movie,Bengali,Romance,135
+23,CJSMBEROM43bcc,Movie,Bengali,Romance,135
+24,CJSMBEROM50389,Movie,Bengali,Romance,120
+25,CJSMBEROM6c4d9,Movie,Bengali,Romance,120
+26,CJSMBEROMeaa25,Movie,Bengali,Romance,90
+27,CJSMBESCI14486,Movie,Bengali,Sci-Fi,135
+28,CJSMBETHR31a11,Movie,Bengali,Thriller,135
+29,CJSMBETHR3b468,Movie,Bengali,Thriller,120
+30,CJSMBETHR7f34f,Movie,Bengali,Thriller,180
+31,CJSMBETHR98ac8,Movie,Bengali,Thriller,135
+32,CJSMBETHRaaffe,Movie,Bengali,Thriller,120
+33,CJSMBETHRba1a7,Movie,Bengali,Thriller,120
+34,CJSMBETHRd986e,Movie,Bengali,Thriller,120
+35,CJSMENACT0331c,Movie,English,Action,90
+36,CJSMENACT0874b,Movie,English,Action,150
+37,CJSMENACT08eef,Movie,English,Action,120
+38,CJSMENACT0b071,Movie,English,Action,120
+39,CJSMENACT0d817,Movie,English,Action,120
+40,CJSMENACT0dc6b,Movie,English,Action,120
+41,CJSMENACT0ff71,Movie,English,Action,120
+42,CJSMENACT10b2a,Movie,English,Action,120
+43,CJSMENACT1e511,Movie,English,Action,120
+44,CJSMENACT1f1b5,Movie,English,Action,150
+45,CJSMENACT1f870,Movie,English,Action,135
+46,CJSMENACT1fa2c,Movie,English,Action,90
+47,CJSMENACT2f1dc,Movie,English,Action,120
+48,CJSMENACT2fa29,Movie,English,Action,120
+49,CJSMENACT2facb,Movie,English,Action,90
+50,CJSMENACT36b0b,Movie,English,Action,120
+51,CJSMENACT36de0,Movie,English,Action,135
+52,CJSMENACT37452,Movie,English,Action,90
+53,CJSMENACT3869f,Movie,English,Action,135
+54,CJSMENACT3997b,Movie,English,Action,135
+55,CJSMENACT425fd,Movie,English,Action,150
+56,CJSMENACT4396a,Movie,English,Action,135
+57,CJSMENACT449c7,Movie,English,Action,120
+58,CJSMENACT450a6,Movie,English,Action,120
+59,CJSMENACT4c979,Movie,English,Action,120
+60,CJSMENACT4cc6b,Movie,English,Action,135
+61,CJSMENACT4cf18,Movie,English,Action,90
+62,CJSMENACT4e92d,Movie,English,Action,120
+63,CJSMENACT51f17,Movie,English,Action,135
+64,CJSMENACT5217b,Movie,English,Action,150
+65,CJSMENACT53408,Movie,English,Action,150
+66,CJSMENACT5408a,Movie,English,Action,150
+67,CJSMENACT55478,Movie,English,Action,120
+68,CJSMENACT58818,Movie,English,Action,135
+69,CJSMENACT59bca,Movie,English,Action,180
+70,CJSMENACT59fc8,Movie,English,Action,120
+71,CJSMENACT5e7db,Movie,English,Action,150
+72,CJSMENACT617c3,Movie,English,Action,120
+73,CJSMENACT68c5e,Movie,English,Action,90
+74,CJSMENACT6a6db,Movie,English,Action,180
+75,CJSMENACT6e933,Movie,English,Action,90
+76,CJSMENACT6f7a3,Movie,English,Action,120
+77,CJSMENACT6fc09,Movie,English,Action,90
+78,CJSMENACT73655,Movie,English,Action,135
+79,CJSMENACT75f85,Movie,English,Action,90
+80,CJSMENACT78192,Movie,English,Action,120
+81,CJSMENACT79e21,Movie,English,Action,120
+82,CJSMENACT7a2d2,Movie,English,Action,180
+83,CJSMENACT7a8f6,Movie,English,Action,120
+84,CJSMENACT87faf,Movie,English,Action,120
+85,CJSMENACT8b2fa,Movie,English,Action,135
+86,CJSMENACT8dae6,Movie,English,Action,180
+87,CJSMENACT8fbf1,Movie,English,Action,120
+88,CJSMENACT907a9,Movie,English,Action,90
+89,CJSMENACT93106,Movie,English,Action,135
+90,CJSMENACT93126,Movie,English,Action,150
+91,CJSMENACT960e8,Movie,English,Action,150
+92,CJSMENACT97577,Movie,English,Action,135
+93,CJSMENACT978b5,Movie,English,Action,150
+94,CJSMENACT981b6,Movie,English,Action,120
+95,CJSMENACT9b237,Movie,English,Action,120
+96,CJSMENACT9fa31,Movie,English,Action,135
+97,CJSMENACTa1eb0,Movie,English,Action,120
+98,CJSMENACTa21e4,Movie,English,Action,90
+99,CJSMENACTa35d8,Movie,English,Action,90
+100,CJSMENACTa724e,Movie,English,Action,90
+101,CJSMENACTa83e1,Movie,English,Action,120
+102,CJSMENACTb0547,Movie,English,Action,90
+103,CJSMENACTb4e45,Movie,English,Action,90
+104,CJSMENACTb6d05,Movie,English,Action,120
+105,CJSMENACTb768b,Movie,English,Action,90
+106,CJSMENACTb78fe,Movie,English,Action,120
+107,CJSMENACTb894e,Movie,English,Action,120
+108,CJSMENACTbf17a,Movie,English,Action,90
+109,CJSMENACTc2915,Movie,English,Action,135
+110,CJSMENACTc6210,Movie,English,Action,120
+111,CJSMENACTc9bd4,Movie,English,Action,120
+112,CJSMENACTccf3e,Movie,English,Action,135
+113,CJSMENACTd55bd,Movie,English,Action,120
+114,CJSMENACTdbfe6,Movie,English,Action,135
+115,CJSMENACTde215,Movie,English,Action,135
+116,CJSMENACTde257,Movie,English,Action,120
+117,CJSMENACTe0699,Movie,English,Action,120
+118,CJSMENACTe325c,Movie,English,Action,120
+119,CJSMENACTe3263,Movie,English,Action,120
+120,CJSMENACTe611b,Movie,English,Action,120
+121,CJSMENACTe775e,Movie,English,Action,120
+122,CJSMENACTe872b,Movie,English,Action,135
+123,CJSMENACTeb580,Movie,English,Action,120
+124,CJSMENACTeb89b,Movie,English,Action,135
+125,CJSMENACTed905,Movie,English,Action,120
+126,CJSMENACTf279e,Movie,English,Action,90
+127,CJSMENACTf9107,Movie,English,Action,120
+128,CJSMENACTf9f68,Movie,English,Action,120
+129,CJSMENACTfd099,Movie,English,Action,135
+130,CJSMENADV017d8,Movie,English,Adventure,120
+131,CJSMENADV023a1,Movie,English,Adventure,90
+132,CJSMENADV04c24,Movie,English,Adventure,135
+133,CJSMENADV07344,Movie,English,Adventure,135
+134,CJSMENADV08dce,Movie,English,Adventure,90
+135,CJSMENADV08f21,Movie,English,Adventure,120
+136,CJSMENADV0fec1,Movie,English,Adventure,135
+137,CJSMENADV21fd1,Movie,English,Adventure,120
+138,CJSMENADV2cf83,Movie,English,Adventure,90
+139,CJSMENADV33868,Movie,English,Adventure,150
+140,CJSMENADV3a90f,Movie,English,Adventure,90
+141,CJSMENADV42c46,Movie,English,Adventure,120
+142,CJSMENADV456e0,Movie,English,Adventure,120
+143,CJSMENADV4601d,Movie,English,Adventure,90
+144,CJSMENADV4857c,Movie,English,Adventure,135
+145,CJSMENADV49463,Movie,English,Adventure,90
+146,CJSMENADV4d93b,Movie,English,Adventure,180
+147,CJSMENADV50371,Movie,English,Adventure,120
+148,CJSMENADV52832,Movie,English,Adventure,120
+149,CJSMENADV5e402,Movie,English,Adventure,120
+150,CJSMENADV63729,Movie,English,Adventure,90
+151,CJSMENADV6a10c,Movie,English,Adventure,90
+152,CJSMENADV6b20d,Movie,English,Adventure,120
+153,CJSMENADV70383,Movie,English,Adventure,150
+154,CJSMENADV70c38,Movie,English,Adventure,90
+155,CJSMENADV8362a,Movie,English,Adventure,120
+156,CJSMENADV837dd,Movie,English,Adventure,90
+157,CJSMENADV83bd0,Movie,English,Adventure,135
+158,CJSMENADV90584,Movie,English,Adventure,135
+159,CJSMENADV94b3b,Movie,English,Adventure,120
+160,CJSMENADV95598,Movie,English,Adventure,90
+161,CJSMENADV99fc6,Movie,English,Adventure,120
+162,CJSMENADV9dbef,Movie,English,Adventure,120
+163,CJSMENADV9f0d0,Movie,English,Adventure,150
+164,CJSMENADVa1907,Movie,English,Adventure,90
+165,CJSMENADVa2776,Movie,English,Adventure,135
+166,CJSMENADVa2fca,Movie,English,Adventure,120
+167,CJSMENADVa85e2,Movie,English,Adventure,90
+168,CJSMENADVa9ca9,Movie,English,Adventure,150
+169,CJSMENADVac514,Movie,English,Adventure,120
+170,CJSMENADVb966a,Movie,English,Adventure,120
+171,CJSMENADVc8c1e,Movie,English,Adventure,150
+172,CJSMENADVcb7ae,Movie,English,Adventure,180
+173,CJSMENADVcf4c2,Movie,English,Adventure,120
+174,CJSMENADVd475f,Movie,English,Adventure,150
+175,CJSMENADVd512d,Movie,English,Adventure,120
+176,CJSMENADVd6619,Movie,English,Adventure,90
+177,CJSMENADVd735b,Movie,English,Adventure,150
+178,CJSMENADVeb129,Movie,English,Adventure,120
+179,CJSMENADVebbed,Movie,English,Adventure,120
+180,CJSMENADVec1dd,Movie,English,Adventure,180
+181,CJSMENADVf7a07,Movie,English,Adventure,120
+182,CJSMENADVf9b51,Movie,English,Adventure,120
+183,CJSMENCOM04521,Movie,English,Comedy,120
+184,CJSMENCOM3c1d3,Movie,English,Comedy,120
+185,CJSMENCOM4aba9,Movie,English,Comedy,150
+186,CJSMENCOMa670d,Movie,English,Comedy,90
+187,CJSMENCOMb4259,Movie,English,Comedy,120
+188,CJSMENCOMb9373,Movie,English,Comedy,135
+189,CJSMENCOMe4270,Movie,English,Comedy,150
+190,CJSMENDRA00d25,Movie,English,Drama,120
+191,CJSMENDRA034ba,Movie,English,Drama,90
+192,CJSMENDRA049ff,Movie,English,Drama,90
+193,CJSMENDRA0c6ef,Movie,English,Drama,120
+194,CJSMENDRA12ae6,Movie,English,Drama,90
+195,CJSMENDRA19f37,Movie,English,Drama,135
+196,CJSMENDRA22eef,Movie,English,Drama,135
+197,CJSMENDRA29227,Movie,English,Drama,90
+198,CJSMENDRA2ec0c,Movie,English,Drama,120
+199,CJSMENDRA310fe,Movie,English,Drama,150
+200,CJSMENDRA3d0e6,Movie,English,Drama,90
+201,CJSMENDRA4041f,Movie,English,Drama,135
+202,CJSMENDRA4434a,Movie,English,Drama,90
+203,CJSMENDRA4a765,Movie,English,Drama,135
+204,CJSMENDRA607a4,Movie,English,Drama,120
+205,CJSMENDRA6c3d7,Movie,English,Drama,120
+206,CJSMENDRA6d8b5,Movie,English,Drama,90
+207,CJSMENDRA734ad,Movie,English,Drama,150
+208,CJSMENDRA7f1cf,Movie,English,Drama,150
+209,CJSMENDRA816f6,Movie,English,Drama,135
+210,CJSMENDRA87982,Movie,English,Drama,135
+211,CJSMENDRA8a710,Movie,English,Drama,120
+212,CJSMENDRAa045a,Movie,English,Drama,150
+213,CJSMENDRAaad98,Movie,English,Drama,180
+214,CJSMENDRAb12e7,Movie,English,Drama,90
+215,CJSMENDRAb387c,Movie,English,Drama,120
+216,CJSMENDRAb91dc,Movie,English,Drama,135
+217,CJSMENDRAb9f1c,Movie,English,Drama,120
+218,CJSMENDRAc9a70,Movie,English,Drama,120
+219,CJSMENDRAcdfbd,Movie,English,Drama,90
+220,CJSMENDRAd219d,Movie,English,Drama,120
+221,CJSMENDRAf1d44,Movie,English,Drama,120
+222,CJSMENDRAf3d19,Movie,English,Drama,120
+223,CJSMENDRAf82a7,Movie,English,Drama,135
+224,CJSMENDRAfa503,Movie,English,Drama,120
+225,CJSMENFAN03713,Movie,English,Fantasy,120
+226,CJSMENFAN09e23,Movie,English,Fantasy,120
+227,CJSMENFAN1057b,Movie,English,Fantasy,90
+228,CJSMENFAN14b0c,Movie,English,Fantasy,150
+229,CJSMENFAN1cf66,Movie,English,Fantasy,90
+230,CJSMENFAN217c3,Movie,English,Fantasy,150
+231,CJSMENFAN2e6fc,Movie,English,Fantasy,120
+232,CJSMENFAN30d20,Movie,English,Fantasy,120
+233,CJSMENFAN32242,Movie,English,Fantasy,120
+234,CJSMENFAN35b34,Movie,English,Fantasy,90
+235,CJSMENFAN39ad7,Movie,English,Fantasy,90
+236,CJSMENFAN3b878,Movie,English,Fantasy,120
+237,CJSMENFAN4bcd7,Movie,English,Fantasy,120
+238,CJSMENFAN4cffb,Movie,English,Fantasy,150
+239,CJSMENFAN4e121,Movie,English,Fantasy,120
+240,CJSMENFAN4ea68,Movie,English,Fantasy,120
+241,CJSMENFAN522c6,Movie,English,Fantasy,120
+242,CJSMENFAN57d76,Movie,English,Fantasy,135
+243,CJSMENFAN59aa3,Movie,English,Fantasy,120
+244,CJSMENFAN5fdab,Movie,English,Fantasy,150
+245,CJSMENFAN72630,Movie,English,Fantasy,135
+246,CJSMENFAN766ba,Movie,English,Fantasy,90
+247,CJSMENFAN77b1b,Movie,English,Fantasy,90
+248,CJSMENFAN7898e,Movie,English,Fantasy,135
+249,CJSMENFAN7e75f,Movie,English,Fantasy,120
+250,CJSMENFAN8d0ec,Movie,English,Fantasy,135
+251,CJSMENFAN8e3c9,Movie,English,Fantasy,90
+252,CJSMENFAN905f7,Movie,English,Fantasy,90
+253,CJSMENFAN9065d,Movie,English,Fantasy,120
+254,CJSMENFAN92d40,Movie,English,Fantasy,120
+255,CJSMENFAN9b1f8,Movie,English,Fantasy,150
+256,CJSMENFAN9c576,Movie,English,Fantasy,120
+257,CJSMENFAN9eef4,Movie,English,Fantasy,90
+258,CJSMENFAN9f393,Movie,English,Fantasy,90
+259,CJSMENFANa4bf6,Movie,English,Fantasy,135
+260,CJSMENFANa76bf,Movie,English,Fantasy,120
+261,CJSMENFANb326a,Movie,English,Fantasy,90
+262,CJSMENFANb5925,Movie,English,Fantasy,90
+263,CJSMENFANc2481,Movie,English,Fantasy,150
+264,CJSMENFANc4909,Movie,English,Fantasy,120
+265,CJSMENFANcab6f,Movie,English,Fantasy,120
+266,CJSMENFANd0c9b,Movie,English,Fantasy,90
+267,CJSMENFANd21f8,Movie,English,Fantasy,120
+268,CJSMENFANd9261,Movie,English,Fantasy,135
+269,CJSMENFANdd7ce,Movie,English,Fantasy,135
+270,CJSMENFANde88e,Movie,English,Fantasy,120
+271,CJSMENFANdf8f0,Movie,English,Fantasy,135
+272,CJSMENFANe58c6,Movie,English,Fantasy,90
+273,CJSMENFANf298a,Movie,English,Fantasy,120
+274,CJSMENFANf2ca4,Movie,English,Fantasy,120
+275,CJSMENFANf9e15,Movie,English,Fantasy,120
+276,CJSMENFANfdb24,Movie,English,Fantasy,90
+277,CJSMENFANfe062,Movie,English,Fantasy,90
+278,CJSMENROM1bc3f,Movie,English,Romance,90
+279,CJSMENROM2c0a1,Movie,English,Romance,90
+280,CJSMENROM3223b,Movie,English,Romance,150
+281,CJSMENROM35b0d,Movie,English,Romance,120
+282,CJSMENROM78388,Movie,English,Romance,135
+283,CJSMENROM8b544,Movie,English,Romance,150
+284,CJSMENROMe3de7,Movie,English,Romance,120
+285,CJSMENROMe8b38,Movie,English,Romance,150
+286,CJSMENROMf3588,Movie,English,Romance,120
+287,CJSMENROMf4fc8,Movie,English,Romance,120
+288,CJSMENSCI001c3,Movie,English,Sci-Fi,90
+289,CJSMENSCI04a2c,Movie,English,Sci-Fi,135
+290,CJSMENSCI04b0c,Movie,English,Sci-Fi,135
+291,CJSMENSCI080df,Movie,English,Sci-Fi,150
+292,CJSMENSCI21cc2,Movie,English,Sci-Fi,120
+293,CJSMENSCI237ab,Movie,English,Sci-Fi,135
+294,CJSMENSCI2416d,Movie,English,Sci-Fi,150
+295,CJSMENSCI2b710,Movie,English,Sci-Fi,120
+296,CJSMENSCI2fa70,Movie,English,Sci-Fi,135
+297,CJSMENSCI389dd,Movie,English,Sci-Fi,90
+298,CJSMENSCI4a662,Movie,English,Sci-Fi,135
+299,CJSMENSCI4f063,Movie,English,Sci-Fi,120
+300,CJSMENSCI5691d,Movie,English,Sci-Fi,135
+301,CJSMENSCI5dd47,Movie,English,Sci-Fi,135
+302,CJSMENSCI654c1,Movie,English,Sci-Fi,135
+303,CJSMENSCI6b8f3,Movie,English,Sci-Fi,180
+304,CJSMENSCI76b6f,Movie,English,Sci-Fi,120
+305,CJSMENSCI79392,Movie,English,Sci-Fi,120
+306,CJSMENSCI7f723,Movie,English,Sci-Fi,120
+307,CJSMENSCI80d0a,Movie,English,Sci-Fi,120
+308,CJSMENSCI90f99,Movie,English,Sci-Fi,120
+309,CJSMENSCI99da2,Movie,English,Sci-Fi,135
+310,CJSMENSCI9af6c,Movie,English,Sci-Fi,120
+311,CJSMENSCI9f4eb,Movie,English,Sci-Fi,120
+312,CJSMENSCIab253,Movie,English,Sci-Fi,120
+313,CJSMENSCIab651,Movie,English,Sci-Fi,90
+314,CJSMENSCIad565,Movie,English,Sci-Fi,150
+315,CJSMENSCIbac60,Movie,English,Sci-Fi,135
+316,CJSMENSCIc1e77,Movie,English,Sci-Fi,135
+317,CJSMENSCIc4021,Movie,English,Sci-Fi,90
+318,CJSMENSCId2379,Movie,English,Sci-Fi,90
+319,CJSMENSCIe2344,Movie,English,Sci-Fi,90
+320,CJSMENSCIeb0d0,Movie,English,Sci-Fi,90
+321,CJSMENSCIf299c,Movie,English,Sci-Fi,135
+322,CJSMENSCIf5343,Movie,English,Sci-Fi,120
+323,CJSMENTHR039d1,Movie,English,Thriller,150
+324,CJSMENTHR06651,Movie,English,Thriller,90
+325,CJSMENTHR0b071,Movie,English,Thriller,135
+326,CJSMENTHR19b9c,Movie,English,Thriller,135
+327,CJSMENTHR1ee07,Movie,English,Thriller,135
+328,CJSMENTHR1f154,Movie,English,Thriller,135
+329,CJSMENTHR26f94,Movie,English,Thriller,90
+330,CJSMENTHR28be9,Movie,English,Thriller,120
+331,CJSMENTHR2ff58,Movie,English,Thriller,120
+332,CJSMENTHR3428f,Movie,English,Thriller,120
+333,CJSMENTHR34f5a,Movie,English,Thriller,120
+334,CJSMENTHR35d21,Movie,English,Thriller,120
+335,CJSMENTHR39593,Movie,English,Thriller,90
+336,CJSMENTHR40fca,Movie,English,Thriller,135
+337,CJSMENTHR485ca,Movie,English,Thriller,90
+338,CJSMENTHR4af6d,Movie,English,Thriller,120
+339,CJSMENTHR4c38f,Movie,English,Thriller,120
+340,CJSMENTHR4d684,Movie,English,Thriller,135
+341,CJSMENTHR53639,Movie,English,Thriller,135
+342,CJSMENTHR5526b,Movie,English,Thriller,120
+343,CJSMENTHR5c4a9,Movie,English,Thriller,180
+344,CJSMENTHR5e173,Movie,English,Thriller,120
+345,CJSMENTHR60a5b,Movie,English,Thriller,135
+346,CJSMENTHR65a39,Movie,English,Thriller,90
+347,CJSMENTHR67aef,Movie,English,Thriller,150
+348,CJSMENTHR6e30e,Movie,English,Thriller,135
+349,CJSMENTHR7116b,Movie,English,Thriller,90
+350,CJSMENTHR785e7,Movie,English,Thriller,135
+351,CJSMENTHR7e3d4,Movie,English,Thriller,120
+352,CJSMENTHR7f0f4,Movie,English,Thriller,90
+353,CJSMENTHR7f38f,Movie,English,Thriller,135
+354,CJSMENTHR81afa,Movie,English,Thriller,120
+355,CJSMENTHR859d0,Movie,English,Thriller,180
+356,CJSMENTHR86c37,Movie,English,Thriller,90
+357,CJSMENTHR887f1,Movie,English,Thriller,90
+358,CJSMENTHR8f540,Movie,English,Thriller,120
+359,CJSMENTHR95b2a,Movie,English,Thriller,150
+360,CJSMENTHR97378,Movie,English,Thriller,120
+361,CJSMENTHR97c87,Movie,English,Thriller,120
+362,CJSMENTHR9807b,Movie,English,Thriller,120
+363,CJSMENTHR9a6a9,Movie,English,Thriller,135
+364,CJSMENTHR9f64d,Movie,English,Thriller,120
+365,CJSMENTHRa14e5,Movie,English,Thriller,120
+366,CJSMENTHRa3289,Movie,English,Thriller,120
+367,CJSMENTHRa4aa4,Movie,English,Thriller,135
+368,CJSMENTHRa5aa8,Movie,English,Thriller,120
+369,CJSMENTHRa7e10,Movie,English,Thriller,135
+370,CJSMENTHRa9288,Movie,English,Thriller,120
+371,CJSMENTHRaa562,Movie,English,Thriller,120
+372,CJSMENTHRad02a,Movie,English,Thriller,120
+373,CJSMENTHRb4dd0,Movie,English,Thriller,90
+374,CJSMENTHRb6555,Movie,English,Thriller,120
+375,CJSMENTHRbc54a,Movie,English,Thriller,120
+376,CJSMENTHRbce18,Movie,English,Thriller,120
+377,CJSMENTHRbfc8d,Movie,English,Thriller,135
+378,CJSMENTHRc9a74,Movie,English,Thriller,150
+379,CJSMENTHRce175,Movie,English,Thriller,180
+380,CJSMENTHRd3f09,Movie,English,Thriller,120
+381,CJSMENTHRd50b0,Movie,English,Thriller,135
+382,CJSMENTHRd5807,Movie,English,Thriller,135
+383,CJSMENTHRd5a83,Movie,English,Thriller,180
+384,CJSMENTHRd6722,Movie,English,Thriller,120
+385,CJSMENTHRd844a,Movie,English,Thriller,90
+386,CJSMENTHRdf73a,Movie,English,Thriller,120
+387,CJSMENTHRe3be6,Movie,English,Thriller,120
+388,CJSMENTHRe49f3,Movie,English,Thriller,150
+389,CJSMENTHRe4eb6,Movie,English,Thriller,120
+390,CJSMENTHRe95cf,Movie,English,Thriller,150
+391,CJSMENTHRf1007,Movie,English,Thriller,120
+392,CJSMENTHRf41a7,Movie,English,Thriller,120
+393,CJSMENTHRf6c84,Movie,English,Thriller,90
+394,CJSMGUACT676a9,Movie,Gujarati,Action,90
+395,CJSMGUCOM5f432,Movie,Gujarati,Comedy,120
+396,CJSMGUCOM7ec8d,Movie,Gujarati,Comedy,90
+397,CJSMGUDRA0fe26,Movie,Gujarati,Drama,120
+398,CJSMGUDRA1497c,Movie,Gujarati,Drama,120
+399,CJSMGUDRA47a9a,Movie,Gujarati,Drama,135
+400,CJSMGUDRA5c5e8,Movie,Gujarati,Drama,120
+401,CJSMGUDRA6f04a,Movie,Gujarati,Drama,135
+402,CJSMGUDRA7c96e,Movie,Gujarati,Drama,90
+403,CJSMGUDRAf1da2,Movie,Gujarati,Drama,90
+404,CJSMGUROMf92e6,Movie,Gujarati,Romance,120
+405,CJSMHIACT064dd,Movie,Hindi,Action,135
+406,CJSMHIACT06a1e,Movie,Hindi,Action,90
+407,CJSMHIACT082f2,Movie,Hindi,Action,90
+408,CJSMHIACT14a5a,Movie,Hindi,Action,135
+409,CJSMHIACT17b32,Movie,Hindi,Action,150
+410,CJSMHIACT1924e,Movie,Hindi,Action,120
+411,CJSMHIACT2ae32,Movie,Hindi,Action,120
+412,CJSMHIACT2f454,Movie,Hindi,Action,180
+413,CJSMHIACT31798,Movie,Hindi,Action,90
+414,CJSMHIACT31b29,Movie,Hindi,Action,135
+415,CJSMHIACT32225,Movie,Hindi,Action,135
+416,CJSMHIACT529fa,Movie,Hindi,Action,90
+417,CJSMHIACT53faa,Movie,Hindi,Action,120
+418,CJSMHIACT5b297,Movie,Hindi,Action,120
+419,CJSMHIACT6017b,Movie,Hindi,Action,120
+420,CJSMHIACT689c5,Movie,Hindi,Action,120
+421,CJSMHIACT78d15,Movie,Hindi,Action,120
+422,CJSMHIACT7aadb,Movie,Hindi,Action,135
+423,CJSMHIACT8746b,Movie,Hindi,Action,120
+424,CJSMHIACT87b40,Movie,Hindi,Action,120
+425,CJSMHIACT886bc,Movie,Hindi,Action,135
+426,CJSMHIACT8b7ec,Movie,Hindi,Action,135
+427,CJSMHIACT8e10f,Movie,Hindi,Action,135
+428,CJSMHIACT91d90,Movie,Hindi,Action,180
+429,CJSMHIACT9a6cd,Movie,Hindi,Action,120
+430,CJSMHIACTa645c,Movie,Hindi,Action,120
+431,CJSMHIACTac05f,Movie,Hindi,Action,150
+432,CJSMHIACTb170e,Movie,Hindi,Action,120
+433,CJSMHIACTb768c,Movie,Hindi,Action,120
+434,CJSMHIACTb90ee,Movie,Hindi,Action,120
+435,CJSMHIACTba23e,Movie,Hindi,Action,90
+436,CJSMHIACTbdffb,Movie,Hindi,Action,120
+437,CJSMHIACTbffe4,Movie,Hindi,Action,120
+438,CJSMHIACTc329d,Movie,Hindi,Action,135
+439,CJSMHIACTc481f,Movie,Hindi,Action,150
+440,CJSMHIACTc81d0,Movie,Hindi,Action,120
+441,CJSMHIACTc91b9,Movie,Hindi,Action,135
+442,CJSMHIACTc9517,Movie,Hindi,Action,120
+443,CJSMHIACTcf563,Movie,Hindi,Action,150
+444,CJSMHIACTe566d,Movie,Hindi,Action,135
+445,CJSMHIACTedc0a,Movie,Hindi,Action,120
+446,CJSMHIACTf336f,Movie,Hindi,Action,120
+447,CJSMHIACTf9471,Movie,Hindi,Action,135
+448,CJSMHIACTfac07,Movie,Hindi,Action,120
+449,CJSMHIADV309c1,Movie,Hindi,Adventure,90
+450,CJSMHIADV55424,Movie,Hindi,Adventure,120
+451,CJSMHIADV57101,Movie,Hindi,Adventure,120
+452,CJSMHIADV70800,Movie,Hindi,Adventure,150
+453,CJSMHIADV79f56,Movie,Hindi,Adventure,90
+454,CJSMHIADV8c5aa,Movie,Hindi,Adventure,90
+455,CJSMHIADV98b32,Movie,Hindi,Adventure,135
+456,CJSMHIADVa1f3d,Movie,Hindi,Adventure,180
+457,CJSMHIADVa5e5b,Movie,Hindi,Adventure,135
+458,CJSMHIADVbd2c7,Movie,Hindi,Adventure,180
+459,CJSMHIADVc7432,Movie,Hindi,Adventure,120
+460,CJSMHIADVcbb5b,Movie,Hindi,Adventure,90
+461,CJSMHIADVefca7,Movie,Hindi,Adventure,120
+462,CJSMHIADVf827f,Movie,Hindi,Adventure,120
+463,CJSMHICOM01063,Movie,Hindi,Comedy,120
+464,CJSMHICOM08a5a,Movie,Hindi,Comedy,90
+465,CJSMHICOM0b938,Movie,Hindi,Comedy,120
+466,CJSMHICOM0cc93,Movie,Hindi,Comedy,135
+467,CJSMHICOM12977,Movie,Hindi,Comedy,135
+468,CJSMHICOM1f76e,Movie,Hindi,Comedy,120
+469,CJSMHICOM22448,Movie,Hindi,Comedy,120
+470,CJSMHICOM28668,Movie,Hindi,Comedy,90
+471,CJSMHICOM2c2e4,Movie,Hindi,Comedy,135
+472,CJSMHICOM341d8,Movie,Hindi,Comedy,120
+473,CJSMHICOM36be9,Movie,Hindi,Comedy,150
+474,CJSMHICOM3750f,Movie,Hindi,Comedy,90
+475,CJSMHICOM38604,Movie,Hindi,Comedy,150
+476,CJSMHICOM42757,Movie,Hindi,Comedy,120
+477,CJSMHICOM47fea,Movie,Hindi,Comedy,90
+478,CJSMHICOM4cc77,Movie,Hindi,Comedy,120
+479,CJSMHICOM529a2,Movie,Hindi,Comedy,135
+480,CJSMHICOM52cab,Movie,Hindi,Comedy,90
+481,CJSMHICOM5ceb5,Movie,Hindi,Comedy,120
+482,CJSMHICOM60ffb,Movie,Hindi,Comedy,120
+483,CJSMHICOM63711,Movie,Hindi,Comedy,120
+484,CJSMHICOM6419c,Movie,Hindi,Comedy,120
+485,CJSMHICOM66e1e,Movie,Hindi,Comedy,120
+486,CJSMHICOM6b208,Movie,Hindi,Comedy,120
+487,CJSMHICOM6ef3f,Movie,Hindi,Comedy,135
+488,CJSMHICOM7951b,Movie,Hindi,Comedy,120
+489,CJSMHICOM79c6e,Movie,Hindi,Comedy,120
+490,CJSMHICOM805ed,Movie,Hindi,Comedy,90
+491,CJSMHICOM830a4,Movie,Hindi,Comedy,90
+492,CJSMHICOM84831,Movie,Hindi,Comedy,120
+493,CJSMHICOM8ba3e,Movie,Hindi,Comedy,90
+494,CJSMHICOM8e984,Movie,Hindi,Comedy,150
+495,CJSMHICOM8ec82,Movie,Hindi,Comedy,90
+496,CJSMHICOM8f5e3,Movie,Hindi,Comedy,135
+497,CJSMHICOM9043d,Movie,Hindi,Comedy,135
+498,CJSMHICOM939f9,Movie,Hindi,Comedy,120
+499,CJSMHICOM957f8,Movie,Hindi,Comedy,150
+500,CJSMHICOM99761,Movie,Hindi,Comedy,135
+501,CJSMHICOM9a118,Movie,Hindi,Comedy,120
+502,CJSMHICOM9f256,Movie,Hindi,Comedy,90
+503,CJSMHICOMa0879,Movie,Hindi,Comedy,135
+504,CJSMHICOMa0d8d,Movie,Hindi,Comedy,120
+505,CJSMHICOMa70b3,Movie,Hindi,Comedy,150
+506,CJSMHICOMb1cd1,Movie,Hindi,Comedy,135
+507,CJSMHICOMb22b9,Movie,Hindi,Comedy,90
+508,CJSMHICOMb935d,Movie,Hindi,Comedy,135
+509,CJSMHICOMbf084,Movie,Hindi,Comedy,120
+510,CJSMHICOMc3d0a,Movie,Hindi,Comedy,90
+511,CJSMHICOMcbddc,Movie,Hindi,Comedy,120
+512,CJSMHICOMcc110,Movie,Hindi,Comedy,150
+513,CJSMHICOMda453,Movie,Hindi,Comedy,120
+514,CJSMHICOMdca7b,Movie,Hindi,Comedy,135
+515,CJSMHICOMdd977,Movie,Hindi,Comedy,120
+516,CJSMHICOMde831,Movie,Hindi,Comedy,120
+517,CJSMHICOMdecea,Movie,Hindi,Comedy,135
+518,CJSMHICOMe3b33,Movie,Hindi,Comedy,120
+519,CJSMHICOMeb67f,Movie,Hindi,Comedy,90
+520,CJSMHICOMf936d,Movie,Hindi,Comedy,90
+521,CJSMHICOMfbb49,Movie,Hindi,Comedy,180
+522,CJSMHIDRA00906,Movie,Hindi,Drama,150
+523,CJSMHIDRA00f0d,Movie,Hindi,Drama,150
+524,CJSMHIDRA0fcde,Movie,Hindi,Drama,120
+525,CJSMHIDRA1017a,Movie,Hindi,Drama,90
+526,CJSMHIDRA11a5f,Movie,Hindi,Drama,120
+527,CJSMHIDRA14c3f,Movie,Hindi,Drama,180
+528,CJSMHIDRA2860a,Movie,Hindi,Drama,90
+529,CJSMHIDRA3295d,Movie,Hindi,Drama,90
+530,CJSMHIDRA3429b,Movie,Hindi,Drama,120
+531,CJSMHIDRA353ed,Movie,Hindi,Drama,120
+532,CJSMHIDRA35795,Movie,Hindi,Drama,120
+533,CJSMHIDRA455d4,Movie,Hindi,Drama,135
+534,CJSMHIDRA46058,Movie,Hindi,Drama,120
+535,CJSMHIDRA4c6a9,Movie,Hindi,Drama,90
+536,CJSMHIDRA54b70,Movie,Hindi,Drama,120
+537,CJSMHIDRA58a1d,Movie,Hindi,Drama,135
+538,CJSMHIDRA5eafe,Movie,Hindi,Drama,120
+539,CJSMHIDRA6a41f,Movie,Hindi,Drama,120
+540,CJSMHIDRA6b3c5,Movie,Hindi,Drama,120
+541,CJSMHIDRA6df11,Movie,Hindi,Drama,150
+542,CJSMHIDRA6ffc0,Movie,Hindi,Drama,120
+543,CJSMHIDRA744d9,Movie,Hindi,Drama,150
+544,CJSMHIDRA74aa8,Movie,Hindi,Drama,150
+545,CJSMHIDRA77e88,Movie,Hindi,Drama,120
+546,CJSMHIDRA7b542,Movie,Hindi,Drama,135
+547,CJSMHIDRA7d018,Movie,Hindi,Drama,120
+548,CJSMHIDRA7d847,Movie,Hindi,Drama,120
+549,CJSMHIDRA86397,Movie,Hindi,Drama,120
+550,CJSMHIDRA90705,Movie,Hindi,Drama,135
+551,CJSMHIDRA9161b,Movie,Hindi,Drama,135
+552,CJSMHIDRA936cc,Movie,Hindi,Drama,90
+553,CJSMHIDRA997f4,Movie,Hindi,Drama,150
+554,CJSMHIDRAa0939,Movie,Hindi,Drama,180
+555,CJSMHIDRAa531f,Movie,Hindi,Drama,90
+556,CJSMHIDRAa5e81,Movie,Hindi,Drama,135
+557,CJSMHIDRAaa948,Movie,Hindi,Drama,150
+558,CJSMHIDRAad833,Movie,Hindi,Drama,180
+559,CJSMHIDRAb2437,Movie,Hindi,Drama,120
+560,CJSMHIDRAb2d4a,Movie,Hindi,Drama,120
+561,CJSMHIDRAb6a40,Movie,Hindi,Drama,150
+562,CJSMHIDRAbaa49,Movie,Hindi,Drama,120
+563,CJSMHIDRAbc8f6,Movie,Hindi,Drama,180
+564,CJSMHIDRAbd0cc,Movie,Hindi,Drama,120
+565,CJSMHIDRAbf796,Movie,Hindi,Drama,135
+566,CJSMHIDRAc0003,Movie,Hindi,Drama,120
+567,CJSMHIDRAc08a6,Movie,Hindi,Drama,120
+568,CJSMHIDRAc7488,Movie,Hindi,Drama,150
+569,CJSMHIDRAc8d97,Movie,Hindi,Drama,135
+570,CJSMHIDRAc998e,Movie,Hindi,Drama,135
+571,CJSMHIDRAd143f,Movie,Hindi,Drama,180
+572,CJSMHIDRAd2c82,Movie,Hindi,Drama,150
+573,CJSMHIDRAd7327,Movie,Hindi,Drama,120
+574,CJSMHIDRAe22b4,Movie,Hindi,Drama,150
+575,CJSMHIDRAe53f3,Movie,Hindi,Drama,90
+576,CJSMHIDRAe5726,Movie,Hindi,Drama,90
+577,CJSMHIDRAe8045,Movie,Hindi,Drama,120
+578,CJSMHIDRAeaa4f,Movie,Hindi,Drama,120
+579,CJSMHIDRAeae78,Movie,Hindi,Drama,120
+580,CJSMHIDRAef9e1,Movie,Hindi,Drama,120
+581,CJSMHIDRAf5f7b,Movie,Hindi,Drama,120
+582,CJSMHIDRAf63e4,Movie,Hindi,Drama,120
+583,CJSMHIDRAf73e9,Movie,Hindi,Drama,180
+584,CJSMHIFAN040e8,Movie,Hindi,Fantasy,120
+585,CJSMHIFAN0d5eb,Movie,Hindi,Fantasy,150
+586,CJSMHIFAN0fd59,Movie,Hindi,Fantasy,150
+587,CJSMHIFAN1891f,Movie,Hindi,Fantasy,150
+588,CJSMHIFAN19193,Movie,Hindi,Fantasy,120
+589,CJSMHIFAN229ba,Movie,Hindi,Fantasy,90
+590,CJSMHIFAN22c06,Movie,Hindi,Fantasy,90
+591,CJSMHIFAN2a9a3,Movie,Hindi,Fantasy,180
+592,CJSMHIFAN39a9e,Movie,Hindi,Fantasy,150
+593,CJSMHIFAN3aa41,Movie,Hindi,Fantasy,90
+594,CJSMHIFAN40420,Movie,Hindi,Fantasy,120
+595,CJSMHIFAN51159,Movie,Hindi,Fantasy,120
+596,CJSMHIFAN5a9c3,Movie,Hindi,Fantasy,120
+597,CJSMHIFAN6c851,Movie,Hindi,Fantasy,135
+598,CJSMHIFAN72648,Movie,Hindi,Fantasy,135
+599,CJSMHIFAN7df51,Movie,Hindi,Fantasy,135
+600,CJSMHIFAN92b08,Movie,Hindi,Fantasy,120
+601,CJSMHIFAN9a782,Movie,Hindi,Fantasy,120
+602,CJSMHIFANa3774,Movie,Hindi,Fantasy,135
+603,CJSMHIFANacda8,Movie,Hindi,Fantasy,90
+604,CJSMHIFANb4260,Movie,Hindi,Fantasy,135
+605,CJSMHIFANb48b8,Movie,Hindi,Fantasy,135
+606,CJSMHIFANbb92d,Movie,Hindi,Fantasy,120
+607,CJSMHIFANbfa0f,Movie,Hindi,Fantasy,120
+608,CJSMHIFANd05f0,Movie,Hindi,Fantasy,150
+609,CJSMHIFANe2af5,Movie,Hindi,Fantasy,135
+610,CJSMHIFANede08,Movie,Hindi,Fantasy,120
+611,CJSMHIFANfc95e,Movie,Hindi,Fantasy,120
+612,CJSMHIFANfe0fd,Movie,Hindi,Fantasy,120
+613,CJSMHIROM033b0,Movie,Hindi,Romance,120
+614,CJSMHIROM0682d,Movie,Hindi,Romance,120
+615,CJSMHIROM07e66,Movie,Hindi,Romance,150
+616,CJSMHIROM0e38a,Movie,Hindi,Romance,135
+617,CJSMHIROM1c70d,Movie,Hindi,Romance,135
+618,CJSMHIROM21778,Movie,Hindi,Romance,120
+619,CJSMHIROM30b81,Movie,Hindi,Romance,135
+620,CJSMHIROM32cef,Movie,Hindi,Romance,90
+621,CJSMHIROM3399b,Movie,Hindi,Romance,120
+622,CJSMHIROM5f1dd,Movie,Hindi,Romance,180
+623,CJSMHIROM607b0,Movie,Hindi,Romance,150
+624,CJSMHIROM63cf3,Movie,Hindi,Romance,135
+625,CJSMHIROM69c4f,Movie,Hindi,Romance,90
+626,CJSMHIROM6a7db,Movie,Hindi,Romance,120
+627,CJSMHIROM6bf88,Movie,Hindi,Romance,180
+628,CJSMHIROM6f85b,Movie,Hindi,Romance,90
+629,CJSMHIROM76bd4,Movie,Hindi,Romance,180
+630,CJSMHIROM78869,Movie,Hindi,Romance,120
+631,CJSMHIROM7a592,Movie,Hindi,Romance,135
+632,CJSMHIROM803a2,Movie,Hindi,Romance,120
+633,CJSMHIROM92a63,Movie,Hindi,Romance,150
+634,CJSMHIROM95fde,Movie,Hindi,Romance,90
+635,CJSMHIROM9bc85,Movie,Hindi,Romance,135
+636,CJSMHIROMa85b7,Movie,Hindi,Romance,120
+637,CJSMHIROMb15ea,Movie,Hindi,Romance,120
+638,CJSMHIROMb7a5d,Movie,Hindi,Romance,90
+639,CJSMHIROMc09ab,Movie,Hindi,Romance,120
+640,CJSMHIROMc3ce0,Movie,Hindi,Romance,120
+641,CJSMHIROMc9fdd,Movie,Hindi,Romance,135
+642,CJSMHIROMcb964,Movie,Hindi,Romance,90
+643,CJSMHIROMd154d,Movie,Hindi,Romance,90
+644,CJSMHIROMd6105,Movie,Hindi,Romance,90
+645,CJSMHIROMde4e1,Movie,Hindi,Romance,120
+646,CJSMHIROMe30cb,Movie,Hindi,Romance,150
+647,CJSMHIROMe55aa,Movie,Hindi,Romance,135
+648,CJSMHIROMe5ee7,Movie,Hindi,Romance,135
+649,CJSMHIROMe7226,Movie,Hindi,Romance,120
+650,CJSMHIROMef31d,Movie,Hindi,Romance,180
+651,CJSMHIROMf2552,Movie,Hindi,Romance,135
+652,CJSMHIROMf3c52,Movie,Hindi,Romance,120
+653,CJSMHIROMf4dee,Movie,Hindi,Romance,180
+654,CJSMHIROMf5c93,Movie,Hindi,Romance,150
+655,CJSMHIROMf6598,Movie,Hindi,Romance,90
+656,CJSMHIROMf680a,Movie,Hindi,Romance,90
+657,CJSMHISCI0aebb,Movie,Hindi,Sci-Fi,150
+658,CJSMHISCI180bd,Movie,Hindi,Sci-Fi,120
+659,CJSMHISCI1cfd6,Movie,Hindi,Sci-Fi,180
+660,CJSMHISCI34adc,Movie,Hindi,Sci-Fi,90
+661,CJSMHISCI77478,Movie,Hindi,Sci-Fi,120
+662,CJSMHISCI85b19,Movie,Hindi,Sci-Fi,135
+663,CJSMHISCI8761b,Movie,Hindi,Sci-Fi,120
+664,CJSMHISCI8b157,Movie,Hindi,Sci-Fi,135
+665,CJSMHISCIaae31,Movie,Hindi,Sci-Fi,135
+666,CJSMHISCIb6abe,Movie,Hindi,Sci-Fi,120
+667,CJSMHISCIcbccd,Movie,Hindi,Sci-Fi,135
+668,CJSMHISCId4e8f,Movie,Hindi,Sci-Fi,180
+669,CJSMHISCIdb0b3,Movie,Hindi,Sci-Fi,90
+670,CJSMHISCIfceab,Movie,Hindi,Sci-Fi,180
+671,CJSMHITHR02e43,Movie,Hindi,Thriller,180
+672,CJSMHITHR076e2,Movie,Hindi,Thriller,150
+673,CJSMHITHR08c34,Movie,Hindi,Thriller,150
+674,CJSMHITHR0dd98,Movie,Hindi,Thriller,135
+675,CJSMHITHR10f77,Movie,Hindi,Thriller,120
+676,CJSMHITHR1c6af,Movie,Hindi,Thriller,150
+677,CJSMHITHR27f9a,Movie,Hindi,Thriller,90
+678,CJSMHITHR2ea11,Movie,Hindi,Thriller,120
+679,CJSMHITHR4e3db,Movie,Hindi,Thriller,135
+680,CJSMHITHR56ce8,Movie,Hindi,Thriller,120
+681,CJSMHITHR58563,Movie,Hindi,Thriller,90
+682,CJSMHITHR58587,Movie,Hindi,Thriller,150
+683,CJSMHITHR7d695,Movie,Hindi,Thriller,135
+684,CJSMHITHR911e4,Movie,Hindi,Thriller,150
+685,CJSMHITHR9f6a2,Movie,Hindi,Thriller,120
+686,CJSMHITHRa1bb3,Movie,Hindi,Thriller,180
+687,CJSMHITHRa7004,Movie,Hindi,Thriller,120
+688,CJSMHITHRa9857,Movie,Hindi,Thriller,120
+689,CJSMHITHRaa5ed,Movie,Hindi,Thriller,150
+690,CJSMHITHRadb7e,Movie,Hindi,Thriller,135
+691,CJSMHITHRb4651,Movie,Hindi,Thriller,150
+692,CJSMHITHRb6508,Movie,Hindi,Thriller,120
+693,CJSMHITHRbd8bc,Movie,Hindi,Thriller,120
+694,CJSMHITHRbe7a1,Movie,Hindi,Thriller,150
+695,CJSMHITHRc9a95,Movie,Hindi,Thriller,90
+696,CJSMHITHRcf9f4,Movie,Hindi,Thriller,135
+697,CJSMHITHRd2834,Movie,Hindi,Thriller,120
+698,CJSMHITHRdab83,Movie,Hindi,Thriller,90
+699,CJSMHITHRdcad0,Movie,Hindi,Thriller,90
+700,CJSMKAACT06248,Movie,Kannada,Action,120
+701,CJSMKAACT082c6,Movie,Kannada,Action,90
+702,CJSMKAACT2d4a8,Movie,Kannada,Action,90
+703,CJSMKAACT346d5,Movie,Kannada,Action,135
+704,CJSMKAACT582c9,Movie,Kannada,Action,120
+705,CJSMKAACT5d07b,Movie,Kannada,Action,150
+706,CJSMKAACT602e8,Movie,Kannada,Action,120
+707,CJSMKAACT8de81,Movie,Kannada,Action,120
+708,CJSMKAACTd8020,Movie,Kannada,Action,90
+709,CJSMKAACTe1f95,Movie,Kannada,Action,150
+710,CJSMKAADV0b41c,Movie,Kannada,Adventure,120
+711,CJSMKAADV3a415,Movie,Kannada,Adventure,120
+712,CJSMKAADV6f6cc,Movie,Kannada,Adventure,150
+713,CJSMKACOM2349f,Movie,Kannada,Comedy,90
+714,CJSMKACOM353f3,Movie,Kannada,Comedy,90
+715,CJSMKACOM54641,Movie,Kannada,Comedy,120
+716,CJSMKACOM59c9f,Movie,Kannada,Comedy,120
+717,CJSMKACOM5c06d,Movie,Kannada,Comedy,120
+718,CJSMKACOM641ac,Movie,Kannada,Comedy,150
+719,CJSMKACOM7e8f3,Movie,Kannada,Comedy,120
+720,CJSMKACOM965e7,Movie,Kannada,Comedy,135
+721,CJSMKACOMab8ca,Movie,Kannada,Comedy,135
+722,CJSMKACOMad1d3,Movie,Kannada,Comedy,90
+723,CJSMKACOMba500,Movie,Kannada,Comedy,120
+724,CJSMKACOMda535,Movie,Kannada,Comedy,150
+725,CJSMKACOMe7fce,Movie,Kannada,Comedy,90
+726,CJSMKACOMf2ef3,Movie,Kannada,Comedy,120
+727,CJSMKADRA1be92,Movie,Kannada,Drama,180
+728,CJSMKADRA1dcb2,Movie,Kannada,Drama,120
+729,CJSMKADRA1deff,Movie,Kannada,Drama,150
+730,CJSMKADRA252f5,Movie,Kannada,Drama,120
+731,CJSMKADRA31e01,Movie,Kannada,Drama,120
+732,CJSMKADRA4b361,Movie,Kannada,Drama,120
+733,CJSMKADRA613c9,Movie,Kannada,Drama,120
+734,CJSMKADRA69e70,Movie,Kannada,Drama,135
+735,CJSMKADRA6e971,Movie,Kannada,Drama,180
+736,CJSMKADRA80f38,Movie,Kannada,Drama,150
+737,CJSMKADRA84bf7,Movie,Kannada,Drama,150
+738,CJSMKADRA91722,Movie,Kannada,Drama,150
+739,CJSMKADRAa72d6,Movie,Kannada,Drama,180
+740,CJSMKADRAc5b3e,Movie,Kannada,Drama,90
+741,CJSMKADRAcc180,Movie,Kannada,Drama,120
+742,CJSMKADRAccd32,Movie,Kannada,Drama,120
+743,CJSMKADRAd206d,Movie,Kannada,Drama,120
+744,CJSMKADRAde91d,Movie,Kannada,Drama,90
+745,CJSMKADRAf879d,Movie,Kannada,Drama,90
+746,CJSMKADRAf964f,Movie,Kannada,Drama,135
+747,CJSMKAFAN6bbdd,Movie,Kannada,Fantasy,90
+748,CJSMKAFAN8f9b9,Movie,Kannada,Fantasy,135
+749,CJSMKAFANfe0d1,Movie,Kannada,Fantasy,90
+750,CJSMKAROM19697,Movie,Kannada,Romance,135
+751,CJSMKAROM2d6fa,Movie,Kannada,Romance,135
+752,CJSMKAROM2e5f7,Movie,Kannada,Romance,150
+753,CJSMKAROM4601d,Movie,Kannada,Romance,90
+754,CJSMKAROM7ee34,Movie,Kannada,Romance,120
+755,CJSMKAROMb317a,Movie,Kannada,Romance,135
+756,CJSMKAROMca586,Movie,Kannada,Romance,90
+757,CJSMKAROMda382,Movie,Kannada,Romance,120
+758,CJSMKAROMdacba,Movie,Kannada,Romance,120
+759,CJSMKAROMf1f9a,Movie,Kannada,Romance,90
+760,CJSMKASCI3ee09,Movie,Kannada,Sci-Fi,150
+761,CJSMKASCI6d694,Movie,Kannada,Sci-Fi,135
+762,CJSMKASCI899ec,Movie,Kannada,Sci-Fi,150
+763,CJSMKATHR1de34,Movie,Kannada,Thriller,90
+764,CJSMKATHR5b90e,Movie,Kannada,Thriller,90
+765,CJSMKATHR8d1bd,Movie,Kannada,Thriller,120
+766,CJSMKATHRbf337,Movie,Kannada,Thriller,120
+767,CJSMKATHRca653,Movie,Kannada,Thriller,120
+768,CJSMKATHRf1f0e,Movie,Kannada,Thriller,150
+769,CJSMKATHRf3096,Movie,Kannada,Thriller,135
+770,CJSMMLACT293f8,Movie,Malayalam,Action,120
+771,CJSMMLACT2fadf,Movie,Malayalam,Action,120
+772,CJSMMLACT47651,Movie,Malayalam,Action,120
+773,CJSMMLACT959e2,Movie,Malayalam,Action,90
+774,CJSMMLACTc3f28,Movie,Malayalam,Action,150
+775,CJSMMLACTd70b0,Movie,Malayalam,Action,90
+776,CJSMMLACTeae10,Movie,Malayalam,Action,180
+777,CJSMMLADV6b956,Movie,Malayalam,Adventure,150
+778,CJSMMLADV7888a,Movie,Malayalam,Adventure,150
+779,CJSMMLADVa871d,Movie,Malayalam,Adventure,150
+780,CJSMMLCOM28a95,Movie,Malayalam,Comedy,90
+781,CJSMMLCOM39096,Movie,Malayalam,Comedy,150
+782,CJSMMLCOM39941,Movie,Malayalam,Comedy,120
+783,CJSMMLCOM6e76c,Movie,Malayalam,Comedy,135
+784,CJSMMLCOM7942a,Movie,Malayalam,Comedy,90
+785,CJSMMLCOM80fdb,Movie,Malayalam,Comedy,135
+786,CJSMMLCOMafb75,Movie,Malayalam,Comedy,150
+787,CJSMMLCOMb9735,Movie,Malayalam,Comedy,150
+788,CJSMMLCOMc0d94,Movie,Malayalam,Comedy,90
+789,CJSMMLCOMf4e27,Movie,Malayalam,Comedy,150
+790,CJSMMLDRA212c6,Movie,Malayalam,Drama,135
+791,CJSMMLDRA22775,Movie,Malayalam,Drama,150
+792,CJSMMLDRA266bb,Movie,Malayalam,Drama,90
+793,CJSMMLDRA36004,Movie,Malayalam,Drama,120
+794,CJSMMLDRA3b3b0,Movie,Malayalam,Drama,120
+795,CJSMMLDRA3bb12,Movie,Malayalam,Drama,150
+796,CJSMMLDRA494a2,Movie,Malayalam,Drama,150
+797,CJSMMLDRA8ad78,Movie,Malayalam,Drama,120
+798,CJSMMLDRA9d7e1,Movie,Malayalam,Drama,150
+799,CJSMMLDRAa7c8b,Movie,Malayalam,Drama,150
+800,CJSMMLDRAa87ce,Movie,Malayalam,Drama,90
+801,CJSMMLDRAaa5a6,Movie,Malayalam,Drama,120
+802,CJSMMLDRAb55f8,Movie,Malayalam,Drama,120
+803,CJSMMLDRAbaf74,Movie,Malayalam,Drama,135
+804,CJSMMLDRAbbf21,Movie,Malayalam,Drama,90
+805,CJSMMLDRAc2a29,Movie,Malayalam,Drama,90
+806,CJSMMLDRAe5627,Movie,Malayalam,Drama,150
+807,CJSMMLDRAe80b3,Movie,Malayalam,Drama,120
+808,CJSMMLDRAead92,Movie,Malayalam,Drama,120
+809,CJSMMLFAN43b64,Movie,Malayalam,Fantasy,150
+810,CJSMMLFAN86145,Movie,Malayalam,Fantasy,135
+811,CJSMMLFAN9ab54,Movie,Malayalam,Fantasy,120
+812,CJSMMLFANbe4cd,Movie,Malayalam,Fantasy,120
+813,CJSMMLFANbe6af,Movie,Malayalam,Fantasy,90
+814,CJSMMLFANc791f,Movie,Malayalam,Fantasy,90
+815,CJSMMLFANffe16,Movie,Malayalam,Fantasy,90
+816,CJSMMLROM261f5,Movie,Malayalam,Romance,120
+817,CJSMMLROM5bb86,Movie,Malayalam,Romance,135
+818,CJSMMLROM99f7d,Movie,Malayalam,Romance,120
+819,CJSMMLROMa7dbe,Movie,Malayalam,Romance,120
+820,CJSMMLROMc3dc9,Movie,Malayalam,Romance,120
+821,CJSMMLROMd39c4,Movie,Malayalam,Romance,90
+822,CJSMMLROMd95a8,Movie,Malayalam,Romance,135
+823,CJSMMLSCI132ef,Movie,Malayalam,Sci-Fi,135
+824,CJSMMLSCIece43,Movie,Malayalam,Sci-Fi,120
+825,CJSMMLSCIfc17f,Movie,Malayalam,Sci-Fi,90
+826,CJSMMLTHR0b707,Movie,Malayalam,Thriller,120
+827,CJSMMLTHR106c1,Movie,Malayalam,Thriller,90
+828,CJSMMLTHR186b4,Movie,Malayalam,Thriller,150
+829,CJSMMLTHR2fa17,Movie,Malayalam,Thriller,90
+830,CJSMMLTHR334e3,Movie,Malayalam,Thriller,120
+831,CJSMMLTHR3ac0e,Movie,Malayalam,Thriller,180
+832,CJSMMLTHR4406c,Movie,Malayalam,Thriller,120
+833,CJSMMLTHR576d8,Movie,Malayalam,Thriller,150
+834,CJSMMLTHR7203f,Movie,Malayalam,Thriller,90
+835,CJSMMLTHRc6b06,Movie,Malayalam,Thriller,90
+836,CJSMMLTHRdd876,Movie,Malayalam,Thriller,120
+837,CJSMMLTHRe7c53,Movie,Malayalam,Thriller,90
+838,CJSMMLTHRe90f2,Movie,Malayalam,Thriller,135
+839,CJSMMLTHRec78e,Movie,Malayalam,Thriller,120
+840,CJSMMRADV2b250,Movie,Marathi,Adventure,90
+841,CJSMMRADV94390,Movie,Marathi,Adventure,150
+842,CJSMMRCOM2486c,Movie,Marathi,Comedy,120
+843,CJSMMRCOM3d5c8,Movie,Marathi,Comedy,150
+844,CJSMMRCOM6b097,Movie,Marathi,Comedy,135
+845,CJSMMRCOM7f9d9,Movie,Marathi,Comedy,150
+846,CJSMMRCOM946e6,Movie,Marathi,Comedy,120
+847,CJSMMRCOM99705,Movie,Marathi,Comedy,120
+848,CJSMMRCOM99a5b,Movie,Marathi,Comedy,120
+849,CJSMMRCOM9bf1f,Movie,Marathi,Comedy,120
+850,CJSMMRCOMc4011,Movie,Marathi,Comedy,120
+851,CJSMMRDRA0fbb9,Movie,Marathi,Drama,150
+852,CJSMMRDRA125fb,Movie,Marathi,Drama,90
+853,CJSMMRDRA162ac,Movie,Marathi,Drama,120
+854,CJSMMRDRA270f1,Movie,Marathi,Drama,150
+855,CJSMMRDRA43294,Movie,Marathi,Drama,120
+856,CJSMMRDRA47059,Movie,Marathi,Drama,135
+857,CJSMMRDRA563f7,Movie,Marathi,Drama,150
+858,CJSMMRDRA6f5cd,Movie,Marathi,Drama,135
+859,CJSMMRDRA77345,Movie,Marathi,Drama,135
+860,CJSMMRDRA9db0a,Movie,Marathi,Drama,150
+861,CJSMMRDRAbd535,Movie,Marathi,Drama,135
+862,CJSMMRDRAc36f2,Movie,Marathi,Drama,180
+863,CJSMMRDRAd8cd4,Movie,Marathi,Drama,180
+864,CJSMMRDRAe5f8e,Movie,Marathi,Drama,135
+865,CJSMMRDRAe6abd,Movie,Marathi,Drama,135
+866,CJSMMRDRAe8b66,Movie,Marathi,Drama,90
+867,CJSMMRDRAf0f96,Movie,Marathi,Drama,180
+868,CJSMMRFAM04f89,Movie,Marathi,Family,90
+869,CJSMMRFAM38518,Movie,Marathi,Family,120
+870,CJSMMRFAM4337b,Movie,Marathi,Family,180
+871,CJSMMRFAM47407,Movie,Marathi,Family,150
+872,CJSMMRFAM4ae75,Movie,Marathi,Family,180
+873,CJSMMRFAMd62cb,Movie,Marathi,Family,135
+874,CJSMMRFAMe055b,Movie,Marathi,Family,135
+875,CJSMMRFAN5a011,Movie,Marathi,Fantasy,120
+876,CJSMMRFANb752c,Movie,Marathi,Fantasy,135
+877,CJSMMRROM3bd10,Movie,Marathi,Romance,150
+878,CJSMMRROM7c4c3,Movie,Marathi,Romance,150
+879,CJSMMRROMb852e,Movie,Marathi,Romance,120
+880,CJSMMRROMbb0be,Movie,Marathi,Romance,150
+881,CJSMMRSCI0bffa,Movie,Marathi,Sci-Fi,180
+882,CJSMMRSCI0c910,Movie,Marathi,Sci-Fi,120
+883,CJSMMRTHR2cefb,Movie,Marathi,Thriller,120
+884,CJSMMRTHR46269,Movie,Marathi,Thriller,120
+885,CJSMMRTHR87c96,Movie,Marathi,Thriller,120
+886,CJSMMRTHRfc63f,Movie,Marathi,Thriller,90
+887,CJSMPUACT9b41f,Movie,Punjabi,Action,120
+888,CJSMPUADVc21f3,Movie,Punjabi,Adventure,120
+889,CJSMPUCOM15fb2,Movie,Punjabi,Comedy,135
+890,CJSMPUCOMbc03b,Movie,Punjabi,Comedy,120
+891,CJSMPUDRA0154c,Movie,Punjabi,Drama,120
+892,CJSMPUDRA448e3,Movie,Punjabi,Drama,135
+893,CJSMPUDRA8e66c,Movie,Punjabi,Drama,150
+894,CJSMPUDRA8f158,Movie,Punjabi,Drama,90
+895,CJSMPUDRA9c88f,Movie,Punjabi,Drama,120
+896,CJSMPUDRAb0958,Movie,Punjabi,Drama,135
+897,CJSMPUROM233f2,Movie,Punjabi,Romance,135
+898,CJSMTAACT0077a,Movie,Tamil,Action,120
+899,CJSMTAACT0d1db,Movie,Tamil,Action,135
+900,CJSMTAACT1004c,Movie,Tamil,Action,120
+901,CJSMTAACT1209c,Movie,Tamil,Action,90
+902,CJSMTAACT1678f,Movie,Tamil,Action,120
+903,CJSMTAACT1bb4a,Movie,Tamil,Action,120
+904,CJSMTAACT1e1a2,Movie,Tamil,Action,135
+905,CJSMTAACT35a7f,Movie,Tamil,Action,120
+906,CJSMTAACT41508,Movie,Tamil,Action,90
+907,CJSMTAACT47dc2,Movie,Tamil,Action,135
+908,CJSMTAACT59449,Movie,Tamil,Action,90
+909,CJSMTAACT73cb2,Movie,Tamil,Action,90
+910,CJSMTAACT772de,Movie,Tamil,Action,150
+911,CJSMTAACT8693f,Movie,Tamil,Action,90
+912,CJSMTAACT89973,Movie,Tamil,Action,150
+913,CJSMTAACT904c8,Movie,Tamil,Action,120
+914,CJSMTAACT907c8,Movie,Tamil,Action,150
+915,CJSMTAACT90f86,Movie,Tamil,Action,135
+916,CJSMTAACT93a9e,Movie,Tamil,Action,120
+917,CJSMTAACT99ba2,Movie,Tamil,Action,90
+918,CJSMTAACT9f40a,Movie,Tamil,Action,120
+919,CJSMTAACTb85d4,Movie,Tamil,Action,135
+920,CJSMTAACTbd35f,Movie,Tamil,Action,90
+921,CJSMTAACTc9311,Movie,Tamil,Action,90
+922,CJSMTAACTcdcd1,Movie,Tamil,Action,150
+923,CJSMTAACTd3576,Movie,Tamil,Action,120
+924,CJSMTAACTd4511,Movie,Tamil,Action,120
+925,CJSMTAACTe140b,Movie,Tamil,Action,120
+926,CJSMTAACTe4731,Movie,Tamil,Action,120
+927,CJSMTAACTef15e,Movie,Tamil,Action,120
+928,CJSMTAACTf847f,Movie,Tamil,Action,120
+929,CJSMTAACTf8715,Movie,Tamil,Action,120
+930,CJSMTAACTff6f3,Movie,Tamil,Action,135
+931,CJSMTAADV621ca,Movie,Tamil,Adventure,135
+932,CJSMTAADV6e6a2,Movie,Tamil,Adventure,120
+933,CJSMTACOM091ec,Movie,Tamil,Comedy,120
+934,CJSMTACOM0b912,Movie,Tamil,Comedy,120
+935,CJSMTACOM1105c,Movie,Tamil,Comedy,150
+936,CJSMTACOM25233,Movie,Tamil,Comedy,90
+937,CJSMTACOM3306b,Movie,Tamil,Comedy,135
+938,CJSMTACOM339de,Movie,Tamil,Comedy,120
+939,CJSMTACOM4e811,Movie,Tamil,Comedy,120
+940,CJSMTACOM69b39,Movie,Tamil,Comedy,120
+941,CJSMTACOM7a438,Movie,Tamil,Comedy,135
+942,CJSMTACOM81d4a,Movie,Tamil,Comedy,135
+943,CJSMTACOM86b02,Movie,Tamil,Comedy,120
+944,CJSMTACOM9fe85,Movie,Tamil,Comedy,150
+945,CJSMTACOM9ffee,Movie,Tamil,Comedy,135
+946,CJSMTACOMa70cc,Movie,Tamil,Comedy,120
+947,CJSMTACOMb4c32,Movie,Tamil,Comedy,90
+948,CJSMTACOMb6c5e,Movie,Tamil,Comedy,135
+949,CJSMTACOMba6d3,Movie,Tamil,Comedy,135
+950,CJSMTACOMbd811,Movie,Tamil,Comedy,180
+951,CJSMTACOMda905,Movie,Tamil,Comedy,135
+952,CJSMTACOMe0a49,Movie,Tamil,Comedy,150
+953,CJSMTACOMfc08d,Movie,Tamil,Comedy,90
+954,CJSMTADRA009be,Movie,Tamil,Drama,90
+955,CJSMTADRA06cc3,Movie,Tamil,Drama,90
+956,CJSMTADRA0a099,Movie,Tamil,Drama,150
+957,CJSMTADRA19b93,Movie,Tamil,Drama,150
+958,CJSMTADRA1b5b7,Movie,Tamil,Drama,120
+959,CJSMTADRA1fdb9,Movie,Tamil,Drama,90
+960,CJSMTADRA25f2d,Movie,Tamil,Drama,120
+961,CJSMTADRA2c1f1,Movie,Tamil,Drama,150
+962,CJSMTADRA2c65b,Movie,Tamil,Drama,120
+963,CJSMTADRA34524,Movie,Tamil,Drama,90
+964,CJSMTADRA3d021,Movie,Tamil,Drama,150
+965,CJSMTADRA4eccc,Movie,Tamil,Drama,135
+966,CJSMTADRA550b3,Movie,Tamil,Drama,90
+967,CJSMTADRA55ad9,Movie,Tamil,Drama,120
+968,CJSMTADRA60658,Movie,Tamil,Drama,120
+969,CJSMTADRA6a7bb,Movie,Tamil,Drama,120
+970,CJSMTADRA9dd4c,Movie,Tamil,Drama,135
+971,CJSMTADRAa79d2,Movie,Tamil,Drama,135
+972,CJSMTADRAc474b,Movie,Tamil,Drama,90
+973,CJSMTADRAcba6c,Movie,Tamil,Drama,90
+974,CJSMTADRAddd75,Movie,Tamil,Drama,120
+975,CJSMTADRAe2e8d,Movie,Tamil,Drama,120
+976,CJSMTADRAe5132,Movie,Tamil,Drama,150
+977,CJSMTADRAe9bef,Movie,Tamil,Drama,120
+978,CJSMTADRAf6df1,Movie,Tamil,Drama,120
+979,CJSMTAFAN00f33,Movie,Tamil,Fantasy,135
+980,CJSMTAFAN0d2a5,Movie,Tamil,Fantasy,90
+981,CJSMTAFAN20392,Movie,Tamil,Fantasy,120
+982,CJSMTAFAN5d29d,Movie,Tamil,Fantasy,90
+983,CJSMTAFAN676a3,Movie,Tamil,Fantasy,180
+984,CJSMTAFAN9e431,Movie,Tamil,Fantasy,90
+985,CJSMTAFANa8801,Movie,Tamil,Fantasy,150
+986,CJSMTAFANadbb8,Movie,Tamil,Fantasy,120
+987,CJSMTAFANbc038,Movie,Tamil,Fantasy,90
+988,CJSMTAFANe7c72,Movie,Tamil,Fantasy,90
+989,CJSMTAFANf1494,Movie,Tamil,Fantasy,90
+990,CJSMTAROM0932e,Movie,Tamil,Romance,135
+991,CJSMTAROM14433,Movie,Tamil,Romance,120
+992,CJSMTAROM1d702,Movie,Tamil,Romance,150
+993,CJSMTAROM2112f,Movie,Tamil,Romance,120
+994,CJSMTAROM3d639,Movie,Tamil,Romance,120
+995,CJSMTAROM3e261,Movie,Tamil,Romance,150
+996,CJSMTAROM3eaa3,Movie,Tamil,Romance,90
+997,CJSMTAROM41005,Movie,Tamil,Romance,120
+998,CJSMTAROM493ce,Movie,Tamil,Romance,120
+999,CJSMTAROM4952b,Movie,Tamil,Romance,150
+1000,CJSMTAROM819cc,Movie,Tamil,Romance,90
+1001,CJSMTAROM849b3,Movie,Tamil,Romance,120
+1002,CJSMTAROM8c3a1,Movie,Tamil,Romance,150
+1003,CJSMTAROM8da62,Movie,Tamil,Romance,90
+1004,CJSMTAROM8e57a,Movie,Tamil,Romance,120
+1005,CJSMTAROMa8923,Movie,Tamil,Romance,120
+1006,CJSMTAROMaaaa7,Movie,Tamil,Romance,120
+1007,CJSMTAROMac180,Movie,Tamil,Romance,135
+1008,CJSMTAROMc50d8,Movie,Tamil,Romance,150
+1009,CJSMTAROMe8b99,Movie,Tamil,Romance,135
+1010,CJSMTAROMfeac8,Movie,Tamil,Romance,150
+1011,CJSMTASCI01bc6,Movie,Tamil,Sci-Fi,180
+1012,CJSMTASCI184de,Movie,Tamil,Sci-Fi,150
+1013,CJSMTASCI51420,Movie,Tamil,Sci-Fi,120
+1014,CJSMTASCI86d1f,Movie,Tamil,Sci-Fi,120
+1015,CJSMTASCIc0b5d,Movie,Tamil,Sci-Fi,120
+1016,CJSMTASCIda92e,Movie,Tamil,Sci-Fi,120
+1017,CJSMTASCIfe414,Movie,Tamil,Sci-Fi,135
+1018,CJSMTATHR1e348,Movie,Tamil,Thriller,90
+1019,CJSMTATHR27d63,Movie,Tamil,Thriller,90
+1020,CJSMTATHR2a9a1,Movie,Tamil,Thriller,150
+1021,CJSMTATHR34505,Movie,Tamil,Thriller,135
+1022,CJSMTATHR350e5,Movie,Tamil,Thriller,135
+1023,CJSMTATHR3b49d,Movie,Tamil,Thriller,120
+1024,CJSMTATHR3b7fc,Movie,Tamil,Thriller,120
+1025,CJSMTATHR3b894,Movie,Tamil,Thriller,120
+1026,CJSMTATHR3e7db,Movie,Tamil,Thriller,90
+1027,CJSMTATHR54ece,Movie,Tamil,Thriller,90
+1028,CJSMTATHR57aa9,Movie,Tamil,Thriller,90
+1029,CJSMTATHR59e80,Movie,Tamil,Thriller,135
+1030,CJSMTATHR802b3,Movie,Tamil,Thriller,120
+1031,CJSMTATHR9d2f6,Movie,Tamil,Thriller,120
+1032,CJSMTATHRa5414,Movie,Tamil,Thriller,120
+1033,CJSMTATHRa9f3c,Movie,Tamil,Thriller,120
+1034,CJSMTATHRb9199,Movie,Tamil,Thriller,120
+1035,CJSMTATHRc7201,Movie,Tamil,Thriller,135
+1036,CJSMTATHRca6f2,Movie,Tamil,Thriller,150
+1037,CJSMTATHRe2daf,Movie,Tamil,Thriller,135
+1038,CJSMTATHRf7418,Movie,Tamil,Thriller,135
+1039,CJSMTEACT036f3,Movie,Telugu,Action,150
+1040,CJSMTEACT14185,Movie,Telugu,Action,120
+1041,CJSMTEACT1aa84,Movie,Telugu,Action,120
+1042,CJSMTEACT1ac75,Movie,Telugu,Action,135
+1043,CJSMTEACT20a3f,Movie,Telugu,Action,135
+1044,CJSMTEACT2101a,Movie,Telugu,Action,120
+1045,CJSMTEACT235df,Movie,Telugu,Action,135
+1046,CJSMTEACT40f7a,Movie,Telugu,Action,150
+1047,CJSMTEACT42e3f,Movie,Telugu,Action,120
+1048,CJSMTEACT43f19,Movie,Telugu,Action,120
+1049,CJSMTEACT461d6,Movie,Telugu,Action,90
+1050,CJSMTEACT48781,Movie,Telugu,Action,120
+1051,CJSMTEACT64350,Movie,Telugu,Action,135
+1052,CJSMTEACT6d54b,Movie,Telugu,Action,120
+1053,CJSMTEACT78571,Movie,Telugu,Action,90
+1054,CJSMTEACT7a395,Movie,Telugu,Action,120
+1055,CJSMTEACT7c8cd,Movie,Telugu,Action,120
+1056,CJSMTEACT7e458,Movie,Telugu,Action,120
+1057,CJSMTEACT7f368,Movie,Telugu,Action,135
+1058,CJSMTEACT8c160,Movie,Telugu,Action,120
+1059,CJSMTEACT8c455,Movie,Telugu,Action,135
+1060,CJSMTEACT934e2,Movie,Telugu,Action,90
+1061,CJSMTEACT9a05a,Movie,Telugu,Action,120
+1062,CJSMTEACT9a320,Movie,Telugu,Action,120
+1063,CJSMTEACT9a7c9,Movie,Telugu,Action,90
+1064,CJSMTEACTaaedd,Movie,Telugu,Action,150
+1065,CJSMTEACTae72c,Movie,Telugu,Action,135
+1066,CJSMTEACTaefef,Movie,Telugu,Action,150
+1067,CJSMTEACTb626a,Movie,Telugu,Action,180
+1068,CJSMTEACTc469e,Movie,Telugu,Action,120
+1069,CJSMTEACTccdbb,Movie,Telugu,Action,150
+1070,CJSMTEACTd04ed,Movie,Telugu,Action,90
+1071,CJSMTEACTd23d3,Movie,Telugu,Action,120
+1072,CJSMTEACTed8ea,Movie,Telugu,Action,135
+1073,CJSMTEACTf6428,Movie,Telugu,Action,150
+1074,CJSMTEACTf8f1a,Movie,Telugu,Action,150
+1075,CJSMTEADV0e66a,Movie,Telugu,Adventure,180
+1076,CJSMTEADV200f9,Movie,Telugu,Adventure,120
+1077,CJSMTEADV2fe1c,Movie,Telugu,Adventure,150
+1078,CJSMTEADVa5b1e,Movie,Telugu,Adventure,135
+1079,CJSMTEADVa9f90,Movie,Telugu,Adventure,90
+1080,CJSMTEADVb4597,Movie,Telugu,Adventure,150
+1081,CJSMTEADVdf60a,Movie,Telugu,Adventure,135
+1082,CJSMTECOM0b342,Movie,Telugu,Comedy,120
+1083,CJSMTECOM1c908,Movie,Telugu,Comedy,135
+1084,CJSMTECOM2a3ab,Movie,Telugu,Comedy,120
+1085,CJSMTECOM38e67,Movie,Telugu,Comedy,90
+1086,CJSMTECOM40906,Movie,Telugu,Comedy,135
+1087,CJSMTECOM4388f,Movie,Telugu,Comedy,135
+1088,CJSMTECOM9aae8,Movie,Telugu,Comedy,90
+1089,CJSMTECOMa233f,Movie,Telugu,Comedy,120
+1090,CJSMTECOMb6d35,Movie,Telugu,Comedy,120
+1091,CJSMTECOMe7c85,Movie,Telugu,Comedy,180
+1092,CJSMTECOMe874e,Movie,Telugu,Comedy,120
+1093,CJSMTECOMed061,Movie,Telugu,Comedy,150
+1094,CJSMTECOMeec17,Movie,Telugu,Comedy,150
+1095,CJSMTECOMf9c2d,Movie,Telugu,Comedy,120
+1096,CJSMTEDRA05c15,Movie,Telugu,Drama,135
+1097,CJSMTEDRA0baec,Movie,Telugu,Drama,150
+1098,CJSMTEDRA3479d,Movie,Telugu,Drama,90
+1099,CJSMTEDRA3967e,Movie,Telugu,Drama,135
+1100,CJSMTEDRA3e96b,Movie,Telugu,Drama,120
+1101,CJSMTEDRA442fb,Movie,Telugu,Drama,135
+1102,CJSMTEDRA4be05,Movie,Telugu,Drama,120
+1103,CJSMTEDRA62c85,Movie,Telugu,Drama,120
+1104,CJSMTEDRA67853,Movie,Telugu,Drama,120
+1105,CJSMTEDRA71924,Movie,Telugu,Drama,120
+1106,CJSMTEDRA7930c,Movie,Telugu,Drama,90
+1107,CJSMTEDRA816c4,Movie,Telugu,Drama,120
+1108,CJSMTEDRA8b1ae,Movie,Telugu,Drama,120
+1109,CJSMTEDRA8cd45,Movie,Telugu,Drama,120
+1110,CJSMTEDRA9e388,Movie,Telugu,Drama,150
+1111,CJSMTEDRAa1d1d,Movie,Telugu,Drama,90
+1112,CJSMTEDRAa6fbb,Movie,Telugu,Drama,120
+1113,CJSMTEDRAa7abf,Movie,Telugu,Drama,90
+1114,CJSMTEDRAb6d07,Movie,Telugu,Drama,150
+1115,CJSMTEDRAcde64,Movie,Telugu,Drama,90
+1116,CJSMTEDRAd3dbe,Movie,Telugu,Drama,180
+1117,CJSMTEDRAd9001,Movie,Telugu,Drama,135
+1118,CJSMTEDRAe83af,Movie,Telugu,Drama,120
+1119,CJSMTEDRAe9217,Movie,Telugu,Drama,90
+1120,CJSMTEDRAecfa9,Movie,Telugu,Drama,120
+1121,CJSMTEDRAf4351,Movie,Telugu,Drama,135
+1122,CJSMTEDRAf6325,Movie,Telugu,Drama,120
+1123,CJSMTEDRAfde1c,Movie,Telugu,Drama,135
+1124,CJSMTEFAN2cfb8,Movie,Telugu,Fantasy,120
+1125,CJSMTEFAN3155d,Movie,Telugu,Fantasy,135
+1126,CJSMTEFAN63e51,Movie,Telugu,Fantasy,120
+1127,CJSMTEFAN84763,Movie,Telugu,Fantasy,150
+1128,CJSMTEFAN854ea,Movie,Telugu,Fantasy,180
+1129,CJSMTEFAN86597,Movie,Telugu,Fantasy,135
+1130,CJSMTEFANa368f,Movie,Telugu,Fantasy,90
+1131,CJSMTEFANb8992,Movie,Telugu,Fantasy,150
+1132,CJSMTEFANc6dbf,Movie,Telugu,Fantasy,180
+1133,CJSMTEFANcd5e2,Movie,Telugu,Fantasy,120
+1134,CJSMTEFANe316e,Movie,Telugu,Fantasy,120
+1135,CJSMTEFANe9802,Movie,Telugu,Fantasy,90
+1136,CJSMTEFANed0fb,Movie,Telugu,Fantasy,150
+1137,CJSMTEFANedc3e,Movie,Telugu,Fantasy,150
+1138,CJSMTEROM04bdc,Movie,Telugu,Romance,90
+1139,CJSMTEROM05462,Movie,Telugu,Romance,120
+1140,CJSMTEROM07d7e,Movie,Telugu,Romance,120
+1141,CJSMTEROM150e1,Movie,Telugu,Romance,120
+1142,CJSMTEROM50a4c,Movie,Telugu,Romance,120
+1143,CJSMTEROM57622,Movie,Telugu,Romance,180
+1144,CJSMTEROM84a0d,Movie,Telugu,Romance,150
+1145,CJSMTEROM94311,Movie,Telugu,Romance,90
+1146,CJSMTEROM9a15c,Movie,Telugu,Romance,120
+1147,CJSMTEROM9a412,Movie,Telugu,Romance,150
+1148,CJSMTEROMa58f1,Movie,Telugu,Romance,150
+1149,CJSMTEROMa726e,Movie,Telugu,Romance,120
+1150,CJSMTEROMbb5ae,Movie,Telugu,Romance,150
+1151,CJSMTEROMc7056,Movie,Telugu,Romance,150
+1152,CJSMTEROMd2027,Movie,Telugu,Romance,150
+1153,CJSMTEROMd5d88,Movie,Telugu,Romance,150
+1154,CJSMTEROMd64f1,Movie,Telugu,Romance,135
+1155,CJSMTEROMefc22,Movie,Telugu,Romance,90
+1156,CJSMTEROMf0db8,Movie,Telugu,Romance,150
+1157,CJSMTEROMf9f6f,Movie,Telugu,Romance,120
+1158,CJSMTEROMfffe7,Movie,Telugu,Romance,120
+1159,CJSMTESCI10156,Movie,Telugu,Sci-Fi,180
+1160,CJSMTESCI41445,Movie,Telugu,Sci-Fi,90
+1161,CJSMTESCI514bc,Movie,Telugu,Sci-Fi,120
+1162,CJSMTESCI864d6,Movie,Telugu,Sci-Fi,135
+1163,CJSMTESCI90c69,Movie,Telugu,Sci-Fi,135
+1164,CJSMTESCIc766e,Movie,Telugu,Sci-Fi,120
+1165,CJSMTESCIf2447,Movie,Telugu,Sci-Fi,90
+1166,CJSMTETHR23634,Movie,Telugu,Thriller,90
+1167,CJSMTETHR2573c,Movie,Telugu,Thriller,120
+1168,CJSMTETHR39523,Movie,Telugu,Thriller,150
+1169,CJSMTETHR5125b,Movie,Telugu,Thriller,120
+1170,CJSMTETHR57397,Movie,Telugu,Thriller,120
+1171,CJSMTETHR58548,Movie,Telugu,Thriller,120
+1172,CJSMTETHR5c20f,Movie,Telugu,Thriller,150
+1173,CJSMTETHR89a60,Movie,Telugu,Thriller,120
+1174,CJSMTETHR9a23c,Movie,Telugu,Thriller,90
+1175,CJSMTETHRaa0c1,Movie,Telugu,Thriller,120
+1176,CJSMTETHRbaf59,Movie,Telugu,Thriller,120
+1177,CJSMTETHRcf75f,Movie,Telugu,Thriller,135
+1178,CJSMTETHRfa1cb,Movie,Telugu,Thriller,150
+1179,CJSMTETHRffd00,Movie,Telugu,Thriller,120
+1180,CJSSBEACT79f63,Series,Bengali,Action,45
+1181,CJSSBEACT820c2,Series,Bengali,Action,45
+1182,CJSSBECOM44fe4,Series,Bengali,Comedy,45
+1183,CJSSBECOM9c7f1,Series,Bengali,Comedy,30
+1184,CJSSBEDRA0fa14,Series,Bengali,Drama,45
+1185,CJSSBEDRA14e0d,Series,Bengali,Drama,20
+1186,CJSSBEDRA4172f,Series,Bengali,Drama,45
+1187,CJSSBEDRA46382,Series,Bengali,Drama,30
+1188,CJSSBEDRA4a504,Series,Bengali,Drama,30
+1189,CJSSBEDRA6672c,Series,Bengali,Drama,45
+1190,CJSSBEDRA9035e,Series,Bengali,Drama,30
+1191,CJSSBEDRAa94b1,Series,Bengali,Drama,45
+1192,CJSSBEDRAdca7a,Series,Bengali,Drama,20
+1193,CJSSBEDRAe898a,Series,Bengali,Drama,20
+1194,CJSSBEFAN0c3a6,Series,Bengali,Fantasy,30
+1195,CJSSBEFANb7597,Series,Bengali,Fantasy,30
+1196,CJSSBEROM28bd6,Series,Bengali,Romance,45
+1197,CJSSBEROM6ba87,Series,Bengali,Romance,30
+1198,CJSSBEROMd4483,Series,Bengali,Romance,45
+1199,CJSSBEROMef440,Series,Bengali,Romance,20
+1200,CJSSBETHR1de98,Series,Bengali,Thriller,30
+1201,CJSSBETHR50d90,Series,Bengali,Thriller,20
+1202,CJSSBETHR9f47e,Series,Bengali,Thriller,45
+1203,CJSSBETHRf438c,Series,Bengali,Thriller,20
+1204,CJSSENACT00328,Series,English,Action,30
+1205,CJSSENACT02dd1,Series,English,Action,20
+1206,CJSSENACT0331b,Series,English,Action,45
+1207,CJSSENACT0421a,Series,English,Action,45
+1208,CJSSENACT04782,Series,English,Action,45
+1209,CJSSENACT0779d,Series,English,Action,30
+1210,CJSSENACT07e4f,Series,English,Action,30
+1211,CJSSENACT0a66e,Series,English,Action,30
+1212,CJSSENACT0e92c,Series,English,Action,20
+1213,CJSSENACT10bc2,Series,English,Action,30
+1214,CJSSENACT13b7f,Series,English,Action,30
+1215,CJSSENACT141a4,Series,English,Action,30
+1216,CJSSENACT16085,Series,English,Action,30
+1217,CJSSENACT1b6b3,Series,English,Action,45
+1218,CJSSENACT1b8c3,Series,English,Action,45
+1219,CJSSENACT1f4c8,Series,English,Action,45
+1220,CJSSENACT20037,Series,English,Action,30
+1221,CJSSENACT22992,Series,English,Action,30
+1222,CJSSENACT248e4,Series,English,Action,45
+1223,CJSSENACT2737c,Series,English,Action,30
+1224,CJSSENACT276cd,Series,English,Action,45
+1225,CJSSENACT27a69,Series,English,Action,45
+1226,CJSSENACT31e03,Series,English,Action,30
+1227,CJSSENACT323b6,Series,English,Action,30
+1228,CJSSENACT33227,Series,English,Action,20
+1229,CJSSENACT3437b,Series,English,Action,30
+1230,CJSSENACT38201,Series,English,Action,30
+1231,CJSSENACT3a9ed,Series,English,Action,30
+1232,CJSSENACT3e3ea,Series,English,Action,45
+1233,CJSSENACT449b3,Series,English,Action,20
+1234,CJSSENACT474ac,Series,English,Action,30
+1235,CJSSENACT47d3a,Series,English,Action,30
+1236,CJSSENACT49aa9,Series,English,Action,20
+1237,CJSSENACT4c723,Series,English,Action,30
+1238,CJSSENACT4d98e,Series,English,Action,30
+1239,CJSSENACT4f2f4,Series,English,Action,20
+1240,CJSSENACT5672c,Series,English,Action,30
+1241,CJSSENACT567fd,Series,English,Action,45
+1242,CJSSENACT5cd94,Series,English,Action,20
+1243,CJSSENACT5e057,Series,English,Action,30
+1244,CJSSENACT5ed11,Series,English,Action,30
+1245,CJSSENACT606b1,Series,English,Action,30
+1246,CJSSENACT66104,Series,English,Action,45
+1247,CJSSENACT6e1f8,Series,English,Action,30
+1248,CJSSENACT6fe88,Series,English,Action,20
+1249,CJSSENACT701bb,Series,English,Action,30
+1250,CJSSENACT7123d,Series,English,Action,30
+1251,CJSSENACT75a0e,Series,English,Action,30
+1252,CJSSENACT784bd,Series,English,Action,45
+1253,CJSSENACT7b09b,Series,English,Action,30
+1254,CJSSENACT7d532,Series,English,Action,30
+1255,CJSSENACT7efd6,Series,English,Action,30
+1256,CJSSENACT81eba,Series,English,Action,45
+1257,CJSSENACT86dbf,Series,English,Action,20
+1258,CJSSENACT95737,Series,English,Action,20
+1259,CJSSENACT98534,Series,English,Action,30
+1260,CJSSENACT9ae02,Series,English,Action,30
+1261,CJSSENACTa42a6,Series,English,Action,45
+1262,CJSSENACTac224,Series,English,Action,30
+1263,CJSSENACTacbf5,Series,English,Action,30
+1264,CJSSENACTafaa3,Series,English,Action,45
+1265,CJSSENACTb52a0,Series,English,Action,30
+1266,CJSSENACTbbf6d,Series,English,Action,20
+1267,CJSSENACTc3ce1,Series,English,Action,45
+1268,CJSSENACTc6e08,Series,English,Action,45
+1269,CJSSENACTcaafe,Series,English,Action,30
+1270,CJSSENACTcd47c,Series,English,Action,45
+1271,CJSSENACTcf8ed,Series,English,Action,30
+1272,CJSSENACTd026a,Series,English,Action,30
+1273,CJSSENACTd12a2,Series,English,Action,30
+1274,CJSSENACTd1977,Series,English,Action,20
+1275,CJSSENACTd5509,Series,English,Action,30
+1276,CJSSENACTd83e4,Series,English,Action,30
+1277,CJSSENACTd917a,Series,English,Action,20
+1278,CJSSENACTdb252,Series,English,Action,30
+1279,CJSSENACTdf9a3,Series,English,Action,30
+1280,CJSSENACTdfde0,Series,English,Action,20
+1281,CJSSENACTe416d,Series,English,Action,45
+1282,CJSSENACTe5012,Series,English,Action,45
+1283,CJSSENACTe780e,Series,English,Action,30
+1284,CJSSENACTf25f9,Series,English,Action,45
+1285,CJSSENACTf329f,Series,English,Action,45
+1286,CJSSENACTf9370,Series,English,Action,20
+1287,CJSSENACTfa1fe,Series,English,Action,20
+1288,CJSSENACTfb096,Series,English,Action,20
+1289,CJSSENACTfd33f,Series,English,Action,30
+1290,CJSSENADV07179,Series,English,Adventure,45
+1291,CJSSENADV0e365,Series,English,Adventure,30
+1292,CJSSENADV11208,Series,English,Adventure,20
+1293,CJSSENADV11b27,Series,English,Adventure,45
+1294,CJSSENADV14d61,Series,English,Adventure,45
+1295,CJSSENADV174d4,Series,English,Adventure,20
+1296,CJSSENADV184bf,Series,English,Adventure,45
+1297,CJSSENADV1cdc0,Series,English,Adventure,30
+1298,CJSSENADV23592,Series,English,Adventure,30
+1299,CJSSENADV274a5,Series,English,Adventure,30
+1300,CJSSENADV312ee,Series,English,Adventure,30
+1301,CJSSENADV35503,Series,English,Adventure,30
+1302,CJSSENADV37346,Series,English,Adventure,20
+1303,CJSSENADV37c2b,Series,English,Adventure,20
+1304,CJSSENADV394c7,Series,English,Adventure,45
+1305,CJSSENADV42d2f,Series,English,Adventure,30
+1306,CJSSENADV476bc,Series,English,Adventure,45
+1307,CJSSENADV4be3a,Series,English,Adventure,20
+1308,CJSSENADV61180,Series,English,Adventure,45
+1309,CJSSENADV698e0,Series,English,Adventure,30
+1310,CJSSENADV70358,Series,English,Adventure,20
+1311,CJSSENADV76944,Series,English,Adventure,20
+1312,CJSSENADV7c873,Series,English,Adventure,30
+1313,CJSSENADV8787b,Series,English,Adventure,30
+1314,CJSSENADV89d04,Series,English,Adventure,30
+1315,CJSSENADV920e8,Series,English,Adventure,30
+1316,CJSSENADV93d03,Series,English,Adventure,45
+1317,CJSSENADV9fec2,Series,English,Adventure,45
+1318,CJSSENADVa4f1a,Series,English,Adventure,30
+1319,CJSSENADVa7959,Series,English,Adventure,30
+1320,CJSSENADVa7af9,Series,English,Adventure,45
+1321,CJSSENADVaa640,Series,English,Adventure,30
+1322,CJSSENADVaabe4,Series,English,Adventure,45
+1323,CJSSENADVb1096,Series,English,Adventure,45
+1324,CJSSENADVc1c41,Series,English,Adventure,45
+1325,CJSSENADVc3f9b,Series,English,Adventure,30
+1326,CJSSENADVc69ab,Series,English,Adventure,45
+1327,CJSSENADVcd7e3,Series,English,Adventure,45
+1328,CJSSENADVcf3dd,Series,English,Adventure,45
+1329,CJSSENADVddc95,Series,English,Adventure,30
+1330,CJSSENADVe465c,Series,English,Adventure,30
+1331,CJSSENADVe8b8d,Series,English,Adventure,20
+1332,CJSSENADVec3fe,Series,English,Adventure,20
+1333,CJSSENADVedc17,Series,English,Adventure,45
+1334,CJSSENADVeede0,Series,English,Adventure,30
+1335,CJSSENADVf03df,Series,English,Adventure,45
+1336,CJSSENADVf295d,Series,English,Adventure,30
+1337,CJSSENADVf4ec7,Series,English,Adventure,45
+1338,CJSSENADVf6982,Series,English,Adventure,45
+1339,CJSSENADVf937d,Series,English,Adventure,20
+1340,CJSSENCOM19663,Series,English,Comedy,45
+1341,CJSSENCOM412d5,Series,English,Comedy,30
+1342,CJSSENCOM7f595,Series,English,Comedy,45
+1343,CJSSENCOMb575b,Series,English,Comedy,30
+1344,CJSSENCOMf31d1,Series,English,Comedy,30
+1345,CJSSENCOMf65ee,Series,English,Comedy,30
+1346,CJSSENDRA05849,Series,English,Drama,45
+1347,CJSSENDRA0691c,Series,English,Drama,30
+1348,CJSSENDRA092d3,Series,English,Drama,45
+1349,CJSSENDRA0d4d4,Series,English,Drama,20
+1350,CJSSENDRA140e3,Series,English,Drama,20
+1351,CJSSENDRA14615,Series,English,Drama,20
+1352,CJSSENDRA15436,Series,English,Drama,30
+1353,CJSSENDRA1a439,Series,English,Drama,30
+1354,CJSSENDRA1b65e,Series,English,Drama,20
+1355,CJSSENDRA1c38f,Series,English,Drama,20
+1356,CJSSENDRA1f553,Series,English,Drama,45
+1357,CJSSENDRA2c508,Series,English,Drama,45
+1358,CJSSENDRA3ab0b,Series,English,Drama,45
+1359,CJSSENDRA431ea,Series,English,Drama,30
+1360,CJSSENDRA4b3dd,Series,English,Drama,45
+1361,CJSSENDRA50833,Series,English,Drama,45
+1362,CJSSENDRA50fd7,Series,English,Drama,20
+1363,CJSSENDRA6c71f,Series,English,Drama,30
+1364,CJSSENDRA77239,Series,English,Drama,30
+1365,CJSSENDRA854d8,Series,English,Drama,20
+1366,CJSSENDRA8c88d,Series,English,Drama,45
+1367,CJSSENDRA99b6e,Series,English,Drama,45
+1368,CJSSENDRA9f880,Series,English,Drama,30
+1369,CJSSENDRAa23fd,Series,English,Drama,30
+1370,CJSSENDRAaba9d,Series,English,Drama,45
+1371,CJSSENDRAb0e68,Series,English,Drama,30
+1372,CJSSENDRAb53c5,Series,English,Drama,45
+1373,CJSSENDRAbc76f,Series,English,Drama,30
+1374,CJSSENDRAcb858,Series,English,Drama,20
+1375,CJSSENDRAd0b2e,Series,English,Drama,20
+1376,CJSSENDRAd717c,Series,English,Drama,30
+1377,CJSSENDRAd9ac6,Series,English,Drama,45
+1378,CJSSENDRAe9338,Series,English,Drama,45
+1379,CJSSENFAN02795,Series,English,Fantasy,30
+1380,CJSSENFAN0681d,Series,English,Fantasy,45
+1381,CJSSENFAN0a579,Series,English,Fantasy,45
+1382,CJSSENFAN0d62c,Series,English,Fantasy,30
+1383,CJSSENFAN13eba,Series,English,Fantasy,20
+1384,CJSSENFAN20cba,Series,English,Fantasy,45
+1385,CJSSENFAN2b5cc,Series,English,Fantasy,30
+1386,CJSSENFAN2fe8b,Series,English,Fantasy,45
+1387,CJSSENFAN3323d,Series,English,Fantasy,20
+1388,CJSSENFAN3dab0,Series,English,Fantasy,45
+1389,CJSSENFAN3e5be,Series,English,Fantasy,30
+1390,CJSSENFAN42645,Series,English,Fantasy,30
+1391,CJSSENFAN46363,Series,English,Fantasy,30
+1392,CJSSENFAN4b52f,Series,English,Fantasy,30
+1393,CJSSENFAN4c3bd,Series,English,Fantasy,30
+1394,CJSSENFAN4ce7c,Series,English,Fantasy,30
+1395,CJSSENFAN4e8b6,Series,English,Fantasy,30
+1396,CJSSENFAN4ea36,Series,English,Fantasy,30
+1397,CJSSENFAN572d4,Series,English,Fantasy,20
+1398,CJSSENFAN5f940,Series,English,Fantasy,20
+1399,CJSSENFAN5fc0e,Series,English,Fantasy,45
+1400,CJSSENFAN66e35,Series,English,Fantasy,20
+1401,CJSSENFAN67756,Series,English,Fantasy,30
+1402,CJSSENFAN6eb3c,Series,English,Fantasy,45
+1403,CJSSENFAN7cf66,Series,English,Fantasy,30
+1404,CJSSENFAN81a6c,Series,English,Fantasy,30
+1405,CJSSENFAN88302,Series,English,Fantasy,20
+1406,CJSSENFAN8f65d,Series,English,Fantasy,45
+1407,CJSSENFAN9217c,Series,English,Fantasy,45
+1408,CJSSENFAN99784,Series,English,Fantasy,45
+1409,CJSSENFAN9a1e0,Series,English,Fantasy,45
+1410,CJSSENFANa4166,Series,English,Fantasy,30
+1411,CJSSENFANaa7fa,Series,English,Fantasy,20
+1412,CJSSENFANb6d06,Series,English,Fantasy,45
+1413,CJSSENFANbb533,Series,English,Fantasy,45
+1414,CJSSENFANc464d,Series,English,Fantasy,45
+1415,CJSSENFANc7836,Series,English,Fantasy,45
+1416,CJSSENFANca540,Series,English,Fantasy,30
+1417,CJSSENFANcaac6,Series,English,Fantasy,30
+1418,CJSSENFANcb512,Series,English,Fantasy,20
+1419,CJSSENFANd2d86,Series,English,Fantasy,30
+1420,CJSSENFANd6835,Series,English,Fantasy,45
+1421,CJSSENFANd8552,Series,English,Fantasy,30
+1422,CJSSENFANd8ecb,Series,English,Fantasy,30
+1423,CJSSENFANe149f,Series,English,Fantasy,45
+1424,CJSSENFANf167a,Series,English,Fantasy,20
+1425,CJSSENFANf31c6,Series,English,Fantasy,45
+1426,CJSSENFANf641b,Series,English,Fantasy,30
+1427,CJSSENFANf83f8,Series,English,Fantasy,30
+1428,CJSSENFANfa79e,Series,English,Fantasy,45
+1429,CJSSENROM0f2a2,Series,English,Romance,30
+1430,CJSSENROM1cdd0,Series,English,Romance,30
+1431,CJSSENROM31c2e,Series,English,Romance,45
+1432,CJSSENROM49a0a,Series,English,Romance,45
+1433,CJSSENROM53bcf,Series,English,Romance,30
+1434,CJSSENROM6e205,Series,English,Romance,30
+1435,CJSSENROM7d4b2,Series,English,Romance,30
+1436,CJSSENROMabd48,Series,English,Romance,30
+1437,CJSSENROMc6a5e,Series,English,Romance,30
+1438,CJSSENROMeb794,Series,English,Romance,30
+1439,CJSSENSCI0ac01,Series,English,Sci-Fi,30
+1440,CJSSENSCI0b734,Series,English,Sci-Fi,45
+1441,CJSSENSCI0cfaa,Series,English,Sci-Fi,30
+1442,CJSSENSCI26b1c,Series,English,Sci-Fi,45
+1443,CJSSENSCI37c20,Series,English,Sci-Fi,30
+1444,CJSSENSCI458fe,Series,English,Sci-Fi,30
+1445,CJSSENSCI495db,Series,English,Sci-Fi,30
+1446,CJSSENSCI50d71,Series,English,Sci-Fi,30
+1447,CJSSENSCI598d4,Series,English,Sci-Fi,30
+1448,CJSSENSCI5b3f1,Series,English,Sci-Fi,30
+1449,CJSSENSCI6e8c7,Series,English,Sci-Fi,45
+1450,CJSSENSCI7010d,Series,English,Sci-Fi,30
+1451,CJSSENSCI710d0,Series,English,Sci-Fi,20
+1452,CJSSENSCI74c36,Series,English,Sci-Fi,30
+1453,CJSSENSCI81d11,Series,English,Sci-Fi,30
+1454,CJSSENSCI86fc9,Series,English,Sci-Fi,30
+1455,CJSSENSCI876d1,Series,English,Sci-Fi,45
+1456,CJSSENSCI88b48,Series,English,Sci-Fi,45
+1457,CJSSENSCI8a20e,Series,English,Sci-Fi,30
+1458,CJSSENSCI8c2bc,Series,English,Sci-Fi,45
+1459,CJSSENSCI8fd3c,Series,English,Sci-Fi,20
+1460,CJSSENSCI9970c,Series,English,Sci-Fi,30
+1461,CJSSENSCI9ffa2,Series,English,Sci-Fi,45
+1462,CJSSENSCIa2ec4,Series,English,Sci-Fi,45
+1463,CJSSENSCIa2ef3,Series,English,Sci-Fi,20
+1464,CJSSENSCIa3b2c,Series,English,Sci-Fi,30
+1465,CJSSENSCIac4bd,Series,English,Sci-Fi,30
+1466,CJSSENSCIb22f1,Series,English,Sci-Fi,30
+1467,CJSSENSCIb8614,Series,English,Sci-Fi,30
+1468,CJSSENSCIc6139,Series,English,Sci-Fi,45
+1469,CJSSENSCId0066,Series,English,Sci-Fi,30
+1470,CJSSENSCId06b6,Series,English,Sci-Fi,30
+1471,CJSSENSCIfccf6,Series,English,Sci-Fi,20
+1472,CJSSENTHR0290f,Series,English,Thriller,20
+1473,CJSSENTHR08b44,Series,English,Thriller,30
+1474,CJSSENTHR10f5b,Series,English,Thriller,30
+1475,CJSSENTHR11685,Series,English,Thriller,45
+1476,CJSSENTHR16407,Series,English,Thriller,30
+1477,CJSSENTHR17ac3,Series,English,Thriller,30
+1478,CJSSENTHR1d0b8,Series,English,Thriller,45
+1479,CJSSENTHR1f1ad,Series,English,Thriller,20
+1480,CJSSENTHR2519c,Series,English,Thriller,30
+1481,CJSSENTHR2f7fc,Series,English,Thriller,30
+1482,CJSSENTHR32e09,Series,English,Thriller,45
+1483,CJSSENTHR3317b,Series,English,Thriller,45
+1484,CJSSENTHR3714b,Series,English,Thriller,45
+1485,CJSSENTHR3c761,Series,English,Thriller,30
+1486,CJSSENTHR40638,Series,English,Thriller,30
+1487,CJSSENTHR42724,Series,English,Thriller,45
+1488,CJSSENTHR433ef,Series,English,Thriller,20
+1489,CJSSENTHR4360d,Series,English,Thriller,30
+1490,CJSSENTHR44268,Series,English,Thriller,45
+1491,CJSSENTHR4a64d,Series,English,Thriller,30
+1492,CJSSENTHR4da49,Series,English,Thriller,45
+1493,CJSSENTHR5c3e6,Series,English,Thriller,45
+1494,CJSSENTHR5cd6a,Series,English,Thriller,30
+1495,CJSSENTHR5f99a,Series,English,Thriller,20
+1496,CJSSENTHR62ce5,Series,English,Thriller,20
+1497,CJSSENTHR675ef,Series,English,Thriller,30
+1498,CJSSENTHR682ca,Series,English,Thriller,30
+1499,CJSSENTHR6d163,Series,English,Thriller,30
+1500,CJSSENTHR717aa,Series,English,Thriller,45
+1501,CJSSENTHR725bc,Series,English,Thriller,20
+1502,CJSSENTHR7b8c1,Series,English,Thriller,45
+1503,CJSSENTHR7e0e2,Series,English,Thriller,20
+1504,CJSSENTHR7fac6,Series,English,Thriller,20
+1505,CJSSENTHR8198e,Series,English,Thriller,20
+1506,CJSSENTHR81c13,Series,English,Thriller,20
+1507,CJSSENTHR82a0b,Series,English,Thriller,30
+1508,CJSSENTHR8632e,Series,English,Thriller,20
+1509,CJSSENTHR90781,Series,English,Thriller,45
+1510,CJSSENTHR99d3a,Series,English,Thriller,30
+1511,CJSSENTHRa000a,Series,English,Thriller,45
+1512,CJSSENTHRa0f04,Series,English,Thriller,30
+1513,CJSSENTHRab0a1,Series,English,Thriller,45
+1514,CJSSENTHRab53c,Series,English,Thriller,30
+1515,CJSSENTHRb3128,Series,English,Thriller,45
+1516,CJSSENTHRb7a40,Series,English,Thriller,20
+1517,CJSSENTHRb9edc,Series,English,Thriller,30
+1518,CJSSENTHRbab5c,Series,English,Thriller,30
+1519,CJSSENTHRc1217,Series,English,Thriller,30
+1520,CJSSENTHRc1706,Series,English,Thriller,30
+1521,CJSSENTHRc3de9,Series,English,Thriller,30
+1522,CJSSENTHRcc893,Series,English,Thriller,30
+1523,CJSSENTHRce331,Series,English,Thriller,20
+1524,CJSSENTHRcf9fb,Series,English,Thriller,30
+1525,CJSSENTHRcffa4,Series,English,Thriller,30
+1526,CJSSENTHRd4fc7,Series,English,Thriller,20
+1527,CJSSENTHRd6516,Series,English,Thriller,30
+1528,CJSSENTHRdc2c0,Series,English,Thriller,30
+1529,CJSSENTHRde429,Series,English,Thriller,20
+1530,CJSSENTHRe87d3,Series,English,Thriller,30
+1531,CJSSENTHRefbb1,Series,English,Thriller,45
+1532,CJSSENTHRf2263,Series,English,Thriller,30
+1533,CJSSENTHRf3958,Series,English,Thriller,20
+1534,CJSSENTHRf5746,Series,English,Thriller,20
+1535,CJSSENTHRf632c,Series,English,Thriller,30
+1536,CJSSENTHRfb377,Series,English,Thriller,45
+1537,CJSSENTHRfde5f,Series,English,Thriller,20
+1538,CJSSENTHRff29f,Series,English,Thriller,45
+1539,CJSSGUACT2f98f,Series,Gujarati,Action,20
+1540,CJSSGUCOM1b4f8,Series,Gujarati,Comedy,20
+1541,CJSSGUCOM4e0d6,Series,Gujarati,Comedy,20
+1542,CJSSGUCOM95111,Series,Gujarati,Comedy,30
+1543,CJSSGUCOMe87a0,Series,Gujarati,Comedy,30
+1544,CJSSGUDRA07f43,Series,Gujarati,Drama,45
+1545,CJSSGUDRA121ba,Series,Gujarati,Drama,45
+1546,CJSSGUDRA32e53,Series,Gujarati,Drama,30
+1547,CJSSGUDRA45be4,Series,Gujarati,Drama,20
+1548,CJSSGUDRA4e03f,Series,Gujarati,Drama,30
+1549,CJSSGUDRA731a3,Series,Gujarati,Drama,30
+1550,CJSSGUDRA82fa3,Series,Gujarati,Drama,45
+1551,CJSSGUDRAc88a7,Series,Gujarati,Drama,30
+1552,CJSSGUDRAf14c5,Series,Gujarati,Drama,20
+1553,CJSSGUROM7f983,Series,Gujarati,Romance,30
+1554,CJSSGUROMdb32f,Series,Gujarati,Romance,20
+1555,CJSSHIACT049b5,Series,Hindi,Action,30
+1556,CJSSHIACT06d37,Series,Hindi,Action,30
+1557,CJSSHIACT0aa8e,Series,Hindi,Action,45
+1558,CJSSHIACT26305,Series,Hindi,Action,20
+1559,CJSSHIACT26d4f,Series,Hindi,Action,45
+1560,CJSSHIACT271a7,Series,Hindi,Action,45
+1561,CJSSHIACT2e545,Series,Hindi,Action,30
+1562,CJSSHIACT4d89a,Series,Hindi,Action,30
+1563,CJSSHIACT529d8,Series,Hindi,Action,30
+1564,CJSSHIACT55c79,Series,Hindi,Action,20
+1565,CJSSHIACT585b9,Series,Hindi,Action,30
+1566,CJSSHIACT6d845,Series,Hindi,Action,45
+1567,CJSSHIACT7723e,Series,Hindi,Action,30
+1568,CJSSHIACT7cc18,Series,Hindi,Action,20
+1569,CJSSHIACT85282,Series,Hindi,Action,45
+1570,CJSSHIACT8e843,Series,Hindi,Action,30
+1571,CJSSHIACTac205,Series,Hindi,Action,30
+1572,CJSSHIACTbdd9a,Series,Hindi,Action,45
+1573,CJSSHIACTc051b,Series,Hindi,Action,30
+1574,CJSSHIACTc60b9,Series,Hindi,Action,20
+1575,CJSSHIACTd7549,Series,Hindi,Action,30
+1576,CJSSHIACTe9401,Series,Hindi,Action,30
+1577,CJSSHIACTf00c1,Series,Hindi,Action,20
+1578,CJSSHIACTf302d,Series,Hindi,Action,20
+1579,CJSSHIADV0b0d5,Series,Hindi,Adventure,30
+1580,CJSSHIADV42bbf,Series,Hindi,Adventure,45
+1581,CJSSHIADV43c0c,Series,Hindi,Adventure,30
+1582,CJSSHIADV4c209,Series,Hindi,Adventure,20
+1583,CJSSHIADV7df81,Series,Hindi,Adventure,30
+1584,CJSSHIADV9714a,Series,Hindi,Adventure,45
+1585,CJSSHIADVaf189,Series,Hindi,Adventure,30
+1586,CJSSHIADVb69d6,Series,Hindi,Adventure,30
+1587,CJSSHICOM01441,Series,Hindi,Comedy,30
+1588,CJSSHICOM01ef7,Series,Hindi,Comedy,30
+1589,CJSSHICOM020a6,Series,Hindi,Comedy,20
+1590,CJSSHICOM03805,Series,Hindi,Comedy,45
+1591,CJSSHICOM0ae31,Series,Hindi,Comedy,45
+1592,CJSSHICOM0bc25,Series,Hindi,Comedy,45
+1593,CJSSHICOM191c3,Series,Hindi,Comedy,30
+1594,CJSSHICOM23981,Series,Hindi,Comedy,45
+1595,CJSSHICOM2f8f5,Series,Hindi,Comedy,30
+1596,CJSSHICOM2fe10,Series,Hindi,Comedy,30
+1597,CJSSHICOM32f3f,Series,Hindi,Comedy,45
+1598,CJSSHICOM36311,Series,Hindi,Comedy,30
+1599,CJSSHICOM39f57,Series,Hindi,Comedy,45
+1600,CJSSHICOM56274,Series,Hindi,Comedy,30
+1601,CJSSHICOM5d8c9,Series,Hindi,Comedy,45
+1602,CJSSHICOM611d8,Series,Hindi,Comedy,30
+1603,CJSSHICOM6952d,Series,Hindi,Comedy,20
+1604,CJSSHICOM6f402,Series,Hindi,Comedy,30
+1605,CJSSHICOM786a7,Series,Hindi,Comedy,45
+1606,CJSSHICOM916a5,Series,Hindi,Comedy,20
+1607,CJSSHICOM91cd7,Series,Hindi,Comedy,30
+1608,CJSSHICOMad862,Series,Hindi,Comedy,30
+1609,CJSSHICOMbd55f,Series,Hindi,Comedy,30
+1610,CJSSHICOMc78de,Series,Hindi,Comedy,45
+1611,CJSSHICOMc793c,Series,Hindi,Comedy,30
+1612,CJSSHICOMd3df3,Series,Hindi,Comedy,30
+1613,CJSSHICOMd9d64,Series,Hindi,Comedy,45
+1614,CJSSHICOMe5d21,Series,Hindi,Comedy,45
+1615,CJSSHICOMe9bfa,Series,Hindi,Comedy,45
+1616,CJSSHICOMea4a0,Series,Hindi,Comedy,30
+1617,CJSSHICOMf4bac,Series,Hindi,Comedy,20
+1618,CJSSHICOMf601c,Series,Hindi,Comedy,30
+1619,CJSSHICOMfb73e,Series,Hindi,Comedy,30
+1620,CJSSHIDRA0459e,Series,Hindi,Drama,30
+1621,CJSSHIDRA0799c,Series,Hindi,Drama,45
+1622,CJSSHIDRA16012,Series,Hindi,Drama,20
+1623,CJSSHIDRA1d6b4,Series,Hindi,Drama,45
+1624,CJSSHIDRA2267b,Series,Hindi,Drama,30
+1625,CJSSHIDRA32d9b,Series,Hindi,Drama,30
+1626,CJSSHIDRA356d7,Series,Hindi,Drama,45
+1627,CJSSHIDRA3b9e2,Series,Hindi,Drama,20
+1628,CJSSHIDRA3fd1a,Series,Hindi,Drama,30
+1629,CJSSHIDRA503c1,Series,Hindi,Drama,30
+1630,CJSSHIDRA5aa5f,Series,Hindi,Drama,20
+1631,CJSSHIDRA6109b,Series,Hindi,Drama,30
+1632,CJSSHIDRA655e7,Series,Hindi,Drama,30
+1633,CJSSHIDRA69356,Series,Hindi,Drama,45
+1634,CJSSHIDRA6fadd,Series,Hindi,Drama,20
+1635,CJSSHIDRA7979d,Series,Hindi,Drama,30
+1636,CJSSHIDRA8a676,Series,Hindi,Drama,20
+1637,CJSSHIDRAa4134,Series,Hindi,Drama,20
+1638,CJSSHIDRAa55ff,Series,Hindi,Drama,30
+1639,CJSSHIDRAa60b2,Series,Hindi,Drama,30
+1640,CJSSHIDRAa60d5,Series,Hindi,Drama,30
+1641,CJSSHIDRAaa269,Series,Hindi,Drama,45
+1642,CJSSHIDRAbbeee,Series,Hindi,Drama,30
+1643,CJSSHIDRAbc252,Series,Hindi,Drama,20
+1644,CJSSHIDRAbc6c3,Series,Hindi,Drama,30
+1645,CJSSHIDRAc1c53,Series,Hindi,Drama,30
+1646,CJSSHIDRAc2001,Series,Hindi,Drama,20
+1647,CJSSHIDRAc4dc0,Series,Hindi,Drama,20
+1648,CJSSHIDRAdace5,Series,Hindi,Drama,30
+1649,CJSSHIDRAdf2cf,Series,Hindi,Drama,45
+1650,CJSSHIDRAece2b,Series,Hindi,Drama,45
+1651,CJSSHIDRAf1016,Series,Hindi,Drama,30
+1652,CJSSHIDRAf1036,Series,Hindi,Drama,30
+1653,CJSSHIDRAf2a52,Series,Hindi,Drama,45
+1654,CJSSHIDRAfc578,Series,Hindi,Drama,30
+1655,CJSSHIDRAfe359,Series,Hindi,Drama,20
+1656,CJSSHIFAN01505,Series,Hindi,Fantasy,30
+1657,CJSSHIFAN286aa,Series,Hindi,Fantasy,30
+1658,CJSSHIFAN42790,Series,Hindi,Fantasy,20
+1659,CJSSHIFAN428a3,Series,Hindi,Fantasy,45
+1660,CJSSHIFAN4f0ca,Series,Hindi,Fantasy,45
+1661,CJSSHIFAN4f33a,Series,Hindi,Fantasy,30
+1662,CJSSHIFAN5c282,Series,Hindi,Fantasy,45
+1663,CJSSHIFAN7a8d2,Series,Hindi,Fantasy,45
+1664,CJSSHIFAN7cea6,Series,Hindi,Fantasy,30
+1665,CJSSHIFAN7d4b9,Series,Hindi,Fantasy,45
+1666,CJSSHIFAN80c2d,Series,Hindi,Fantasy,45
+1667,CJSSHIFAN86ed7,Series,Hindi,Fantasy,30
+1668,CJSSHIFAN9fc07,Series,Hindi,Fantasy,30
+1669,CJSSHIFANa1218,Series,Hindi,Fantasy,30
+1670,CJSSHIFANc6350,Series,Hindi,Fantasy,45
+1671,CJSSHIFANd6db6,Series,Hindi,Fantasy,20
+1672,CJSSHIROM290c3,Series,Hindi,Romance,30
+1673,CJSSHIROM2e583,Series,Hindi,Romance,45
+1674,CJSSHIROM35f7b,Series,Hindi,Romance,30
+1675,CJSSHIROM4f38c,Series,Hindi,Romance,30
+1676,CJSSHIROM57e36,Series,Hindi,Romance,30
+1677,CJSSHIROM5d214,Series,Hindi,Romance,20
+1678,CJSSHIROM6293d,Series,Hindi,Romance,20
+1679,CJSSHIROM75573,Series,Hindi,Romance,45
+1680,CJSSHIROM8c9ec,Series,Hindi,Romance,45
+1681,CJSSHIROM9370e,Series,Hindi,Romance,20
+1682,CJSSHIROMa3576,Series,Hindi,Romance,30
+1683,CJSSHIROMacfd1,Series,Hindi,Romance,45
+1684,CJSSHIROMb3239,Series,Hindi,Romance,45
+1685,CJSSHIROMb6f8a,Series,Hindi,Romance,30
+1686,CJSSHIROMba780,Series,Hindi,Romance,45
+1687,CJSSHIROMbd50c,Series,Hindi,Romance,45
+1688,CJSSHIROMc546a,Series,Hindi,Romance,30
+1689,CJSSHIROMd5b61,Series,Hindi,Romance,20
+1690,CJSSHIROMe1d05,Series,Hindi,Romance,45
+1691,CJSSHIROMe35a1,Series,Hindi,Romance,30
+1692,CJSSHIROMeb0a6,Series,Hindi,Romance,45
+1693,CJSSHIROMf986c,Series,Hindi,Romance,20
+1694,CJSSHIROMfc15e,Series,Hindi,Romance,45
+1695,CJSSHIROMfd71c,Series,Hindi,Romance,20
+1696,CJSSHISCI0c773,Series,Hindi,Sci-Fi,45
+1697,CJSSHISCI120a0,Series,Hindi,Sci-Fi,45
+1698,CJSSHISCI8af14,Series,Hindi,Sci-Fi,30
+1699,CJSSHISCIb1308,Series,Hindi,Sci-Fi,20
+1700,CJSSHISCIb13a3,Series,Hindi,Sci-Fi,30
+1701,CJSSHISCIbc587,Series,Hindi,Sci-Fi,45
+1702,CJSSHISCIc413b,Series,Hindi,Sci-Fi,20
+1703,CJSSHISCIff570,Series,Hindi,Sci-Fi,30
+1704,CJSSHITHR0914f,Series,Hindi,Thriller,30
+1705,CJSSHITHR0d863,Series,Hindi,Thriller,30
+1706,CJSSHITHR1eb59,Series,Hindi,Thriller,30
+1707,CJSSHITHR2206e,Series,Hindi,Thriller,30
+1708,CJSSHITHR421b8,Series,Hindi,Thriller,20
+1709,CJSSHITHR5e8ff,Series,Hindi,Thriller,45
+1710,CJSSHITHR6e0d0,Series,Hindi,Thriller,45
+1711,CJSSHITHR708ac,Series,Hindi,Thriller,30
+1712,CJSSHITHR77f99,Series,Hindi,Thriller,30
+1713,CJSSHITHR8972f,Series,Hindi,Thriller,20
+1714,CJSSHITHR929b0,Series,Hindi,Thriller,20
+1715,CJSSHITHR9b24b,Series,Hindi,Thriller,30
+1716,CJSSHITHRb807f,Series,Hindi,Thriller,20
+1717,CJSSHITHRc82a2,Series,Hindi,Thriller,45
+1718,CJSSHITHRd25a4,Series,Hindi,Thriller,30
+1719,CJSSHITHRd4f31,Series,Hindi,Thriller,20
+1720,CJSSKAACT1b6cf,Series,Kannada,Action,30
+1721,CJSSKAACT2898b,Series,Kannada,Action,45
+1722,CJSSKAACT5111d,Series,Kannada,Action,30
+1723,CJSSKAACT6d862,Series,Kannada,Action,30
+1724,CJSSKAACT8cdc0,Series,Kannada,Action,30
+1725,CJSSKAACTdf2b1,Series,Kannada,Action,20
+1726,CJSSKAADV13a83,Series,Kannada,Adventure,30
+1727,CJSSKAADVd9f81,Series,Kannada,Adventure,30
+1728,CJSSKACOM44a36,Series,Kannada,Comedy,30
+1729,CJSSKACOM74c9a,Series,Kannada,Comedy,30
+1730,CJSSKACOM80eba,Series,Kannada,Comedy,30
+1731,CJSSKACOM8c850,Series,Kannada,Comedy,30
+1732,CJSSKACOMca732,Series,Kannada,Comedy,30
+1733,CJSSKACOMccc33,Series,Kannada,Comedy,20
+1734,CJSSKACOMf6a08,Series,Kannada,Comedy,45
+1735,CJSSKACOMfd11b,Series,Kannada,Comedy,30
+1736,CJSSKADRA1d959,Series,Kannada,Drama,30
+1737,CJSSKADRA33e69,Series,Kannada,Drama,45
+1738,CJSSKADRA377a4,Series,Kannada,Drama,30
+1739,CJSSKADRA63c1a,Series,Kannada,Drama,30
+1740,CJSSKADRA660b3,Series,Kannada,Drama,45
+1741,CJSSKADRA826a5,Series,Kannada,Drama,30
+1742,CJSSKADRA883c5,Series,Kannada,Drama,45
+1743,CJSSKADRA8d4c1,Series,Kannada,Drama,20
+1744,CJSSKADRA9294f,Series,Kannada,Drama,20
+1745,CJSSKADRAe3a06,Series,Kannada,Drama,30
+1746,CJSSKADRAf623a,Series,Kannada,Drama,30
+1747,CJSSKAFAN778a6,Series,Kannada,Fantasy,20
+1748,CJSSKAFAN7e368,Series,Kannada,Fantasy,45
+1749,CJSSKAROM0659f,Series,Kannada,Romance,30
+1750,CJSSKAROM242e1,Series,Kannada,Romance,45
+1751,CJSSKAROM423c6,Series,Kannada,Romance,30
+1752,CJSSKAROMacc1b,Series,Kannada,Romance,45
+1753,CJSSKAROMb3ee5,Series,Kannada,Romance,30
+1754,CJSSKAROMcff1c,Series,Kannada,Romance,30
+1755,CJSSKASCI44bfa,Series,Kannada,Sci-Fi,45
+1756,CJSSKASCI7d04e,Series,Kannada,Sci-Fi,30
+1757,CJSSKATHR0079a,Series,Kannada,Thriller,20
+1758,CJSSKATHR550d6,Series,Kannada,Thriller,20
+1759,CJSSKATHR8be47,Series,Kannada,Thriller,45
+1760,CJSSKATHRcc8ef,Series,Kannada,Thriller,30
+1761,CJSSMLACT40d23,Series,Malayalam,Action,30
+1762,CJSSMLACTa62d4,Series,Malayalam,Action,45
+1763,CJSSMLACTc40f0,Series,Malayalam,Action,20
+1764,CJSSMLACTd4a6c,Series,Malayalam,Action,20
+1765,CJSSMLADVb971a,Series,Malayalam,Adventure,45
+1766,CJSSMLADVdbdf6,Series,Malayalam,Adventure,45
+1767,CJSSMLCOM0f8e3,Series,Malayalam,Comedy,30
+1768,CJSSMLCOM15c9a,Series,Malayalam,Comedy,20
+1769,CJSSMLCOM29087,Series,Malayalam,Comedy,30
+1770,CJSSMLCOM2d27e,Series,Malayalam,Comedy,30
+1771,CJSSMLCOM3ff48,Series,Malayalam,Comedy,30
+1772,CJSSMLCOMbc909,Series,Malayalam,Comedy,30
+1773,CJSSMLDRA01d10,Series,Malayalam,Drama,30
+1774,CJSSMLDRA02447,Series,Malayalam,Drama,30
+1775,CJSSMLDRA0eafd,Series,Malayalam,Drama,45
+1776,CJSSMLDRA285d5,Series,Malayalam,Drama,20
+1777,CJSSMLDRA7c371,Series,Malayalam,Drama,30
+1778,CJSSMLDRA988a8,Series,Malayalam,Drama,45
+1779,CJSSMLDRAaa706,Series,Malayalam,Drama,30
+1780,CJSSMLDRAaf5f9,Series,Malayalam,Drama,45
+1781,CJSSMLDRAc7d7f,Series,Malayalam,Drama,45
+1782,CJSSMLDRAd0e66,Series,Malayalam,Drama,30
+1783,CJSSMLDRAf430f,Series,Malayalam,Drama,30
+1784,CJSSMLFAN1d9cf,Series,Malayalam,Fantasy,20
+1785,CJSSMLFANd6428,Series,Malayalam,Fantasy,45
+1786,CJSSMLFANe5a75,Series,Malayalam,Fantasy,20
+1787,CJSSMLFANf2183,Series,Malayalam,Fantasy,45
+1788,CJSSMLROM11462,Series,Malayalam,Romance,30
+1789,CJSSMLROM1800f,Series,Malayalam,Romance,30
+1790,CJSSMLROM52e66,Series,Malayalam,Romance,30
+1791,CJSSMLROM5b363,Series,Malayalam,Romance,20
+1792,CJSSMLSCIdb655,Series,Malayalam,Sci-Fi,30
+1793,CJSSMLSCIefa02,Series,Malayalam,Sci-Fi,45
+1794,CJSSMLTHR160d6,Series,Malayalam,Thriller,45
+1795,CJSSMLTHR19ac9,Series,Malayalam,Thriller,30
+1796,CJSSMLTHR385df,Series,Malayalam,Thriller,30
+1797,CJSSMLTHR4fb09,Series,Malayalam,Thriller,30
+1798,CJSSMLTHRb2358,Series,Malayalam,Thriller,30
+1799,CJSSMLTHRb32db,Series,Malayalam,Thriller,30
+1800,CJSSMLTHRb5ae5,Series,Malayalam,Thriller,30
+1801,CJSSMLTHRcb35a,Series,Malayalam,Thriller,20
+1802,CJSSMRADVbd786,Series,Marathi,Adventure,20
+1803,CJSSMRCOM687aa,Series,Marathi,Comedy,30
+1804,CJSSMRCOMcee3d,Series,Marathi,Comedy,30
+1805,CJSSMRCOMd70dd,Series,Marathi,Comedy,30
+1806,CJSSMRCOMf2a8b,Series,Marathi,Comedy,20
+1807,CJSSMRDRA008f5,Series,Marathi,Drama,30
+1808,CJSSMRDRA03d89,Series,Marathi,Drama,45
+1809,CJSSMRDRA1d6d3,Series,Marathi,Drama,30
+1810,CJSSMRDRA28461,Series,Marathi,Drama,20
+1811,CJSSMRDRA3a47f,Series,Marathi,Drama,30
+1812,CJSSMRDRA552fe,Series,Marathi,Drama,45
+1813,CJSSMRDRA920f3,Series,Marathi,Drama,30
+1814,CJSSMRDRAbb8a0,Series,Marathi,Drama,30
+1815,CJSSMRDRAd78b3,Series,Marathi,Drama,30
+1816,CJSSMRDRAe898d,Series,Marathi,Drama,30
+1817,CJSSMRFAM32fbd,Series,Marathi,Family,20
+1818,CJSSMRFAM72c73,Series,Marathi,Family,30
+1819,CJSSMRFAMb8be6,Series,Marathi,Family,30
+1820,CJSSMRFAN8e514,Series,Marathi,Fantasy,45
+1821,CJSSMRROM53bab,Series,Marathi,Romance,30
+1822,CJSSMRROMb8b54,Series,Marathi,Romance,30
+1823,CJSSMRSCIf5d28,Series,Marathi,Sci-Fi,45
+1824,CJSSMRTHR862e1,Series,Marathi,Thriller,45
+1825,CJSSMRTHR924b2,Series,Marathi,Thriller,30
+1826,CJSSPBEHIG57596,Sports,Bengali,Highlights,10
+1827,CJSSPENDOC10bb6,Sports,English,Documentaries,60
+1828,CJSSPENDOC1bcbd,Sports,English,Documentaries,60
+1829,CJSSPENDOC3614c,Sports,English,Documentaries,90
+1830,CJSSPENDOC46f85,Sports,English,Documentaries,90
+1831,CJSSPENDOC565e8,Sports,English,Documentaries,60
+1832,CJSSPENDOC67619,Sports,English,Documentaries,30
+1833,CJSSPENDOCf78ab,Sports,English,Documentaries,30
+1834,CJSSPENHIG082ac,Sports,English,Highlights,15
+1835,CJSSPENHIG189c2,Sports,English,Highlights,20
+1836,CJSSPENHIG29c66,Sports,English,Highlights,10
+1837,CJSSPENHIG2c1c6,Sports,English,Highlights,5
+1838,CJSSPENHIG35113,Sports,English,Highlights,30
+1839,CJSSPENHIG38f11,Sports,English,Highlights,30
+1840,CJSSPENHIG429b3,Sports,English,Highlights,15
+1841,CJSSPENHIG5c5da,Sports,English,Highlights,10
+1842,CJSSPENHIG6d07f,Sports,English,Highlights,5
+1843,CJSSPENHIG6fc33,Sports,English,Highlights,15
+1844,CJSSPENHIG788ae,Sports,English,Highlights,15
+1845,CJSSPENHIG7c7a2,Sports,English,Highlights,5
+1846,CJSSPENHIG7ff49,Sports,English,Highlights,15
+1847,CJSSPENHIG8344f,Sports,English,Highlights,30
+1848,CJSSPENHIG91d7e,Sports,English,Highlights,15
+1849,CJSSPENHIG95254,Sports,English,Highlights,15
+1850,CJSSPENHIG9850b,Sports,English,Highlights,20
+1851,CJSSPENHIG9fa6b,Sports,English,Highlights,10
+1852,CJSSPENHIGa8b23,Sports,English,Highlights,15
+1853,CJSSPENHIGaec8d,Sports,English,Highlights,10
+1854,CJSSPENHIGc3cb1,Sports,English,Highlights,20
+1855,CJSSPENHIGc3f2f,Sports,English,Highlights,15
+1856,CJSSPENHIGcfb5d,Sports,English,Highlights,15
+1857,CJSSPENHIGd4c2b,Sports,English,Highlights,20
+1858,CJSSPENHIGe114b,Sports,English,Highlights,5
+1859,CJSSPENHIGe94f9,Sports,English,Highlights,10
+1860,CJSSPENHIGeafac,Sports,English,Highlights,20
+1861,CJSSPENHIGf46ce,Sports,English,Highlights,15
+1862,CJSSPENLIV01528,Sports,English,Live Matches,300
+1863,CJSSPENLIV0c94f,Sports,English,Live Matches,240
+1864,CJSSPENLIV10498,Sports,English,Live Matches,120
+1865,CJSSPENLIV13597,Sports,English,Live Matches,120
+1866,CJSSPENLIV14624,Sports,English,Live Matches,180
+1867,CJSSPENLIV14718,Sports,English,Live Matches,180
+1868,CJSSPENLIV1472c,Sports,English,Live Matches,90
+1869,CJSSPENLIV17d55,Sports,English,Live Matches,90
+1870,CJSSPENLIV1ad9d,Sports,English,Live Matches,120
+1871,CJSSPENLIV1b27c,Sports,English,Live Matches,300
+1872,CJSSPENLIV1f78a,Sports,English,Live Matches,120
+1873,CJSSPENLIV2024a,Sports,English,Live Matches,120
+1874,CJSSPENLIV2ae63,Sports,English,Live Matches,120
+1875,CJSSPENLIV2eff2,Sports,English,Live Matches,120
+1876,CJSSPENLIV3034f,Sports,English,Live Matches,120
+1877,CJSSPENLIV31d42,Sports,English,Live Matches,120
+1878,CJSSPENLIV371a7,Sports,English,Live Matches,90
+1879,CJSSPENLIV3b557,Sports,English,Live Matches,120
+1880,CJSSPENLIV4060a,Sports,English,Live Matches,120
+1881,CJSSPENLIV41ded,Sports,English,Live Matches,120
+1882,CJSSPENLIV44248,Sports,English,Live Matches,90
+1883,CJSSPENLIV4ce78,Sports,English,Live Matches,180
+1884,CJSSPENLIV590cd,Sports,English,Live Matches,120
+1885,CJSSPENLIV5aa12,Sports,English,Live Matches,90
+1886,CJSSPENLIV5e80d,Sports,English,Live Matches,180
+1887,CJSSPENLIV5ec59,Sports,English,Live Matches,90
+1888,CJSSPENLIV60993,Sports,English,Live Matches,120
+1889,CJSSPENLIV69c0b,Sports,English,Live Matches,120
+1890,CJSSPENLIV6e336,Sports,English,Live Matches,180
+1891,CJSSPENLIV704ce,Sports,English,Live Matches,180
+1892,CJSSPENLIV7365e,Sports,English,Live Matches,90
+1893,CJSSPENLIV7a8fd,Sports,English,Live Matches,120
+1894,CJSSPENLIV7b30c,Sports,English,Live Matches,120
+1895,CJSSPENLIV83acc,Sports,English,Live Matches,180
+1896,CJSSPENLIV858aa,Sports,English,Live Matches,90
+1897,CJSSPENLIV8ab7f,Sports,English,Live Matches,90
+1898,CJSSPENLIV9046a,Sports,English,Live Matches,120
+1899,CJSSPENLIV920d0,Sports,English,Live Matches,120
+1900,CJSSPENLIV98b7a,Sports,English,Live Matches,90
+1901,CJSSPENLIVa2c2d,Sports,English,Live Matches,90
+1902,CJSSPENLIVa2ec5,Sports,English,Live Matches,120
+1903,CJSSPENLIVb0d5b,Sports,English,Live Matches,120
+1904,CJSSPENLIVb42fd,Sports,English,Live Matches,120
+1905,CJSSPENLIVb63b3,Sports,English,Live Matches,120
+1906,CJSSPENLIVb921a,Sports,English,Live Matches,90
+1907,CJSSPENLIVbb418,Sports,English,Live Matches,240
+1908,CJSSPENLIVbd80e,Sports,English,Live Matches,180
+1909,CJSSPENLIVbda27,Sports,English,Live Matches,120
+1910,CJSSPENLIVbf447,Sports,English,Live Matches,120
+1911,CJSSPENLIVc39ae,Sports,English,Live Matches,120
+1912,CJSSPENLIVcaa16,Sports,English,Live Matches,240
+1913,CJSSPENLIVcb05e,Sports,English,Live Matches,90
+1914,CJSSPENLIVd4fae,Sports,English,Live Matches,300
+1915,CJSSPENLIVd7848,Sports,English,Live Matches,120
+1916,CJSSPENLIVd8671,Sports,English,Live Matches,120
+1917,CJSSPENLIVd8e2e,Sports,English,Live Matches,120
+1918,CJSSPENLIVdde08,Sports,English,Live Matches,90
+1919,CJSSPENLIVdfa9f,Sports,English,Live Matches,90
+1920,CJSSPENLIVe2006,Sports,English,Live Matches,120
+1921,CJSSPENLIVe3ebf,Sports,English,Live Matches,120
+1922,CJSSPENLIVe919b,Sports,English,Live Matches,90
+1923,CJSSPENLIVe95ba,Sports,English,Live Matches,120
+1924,CJSSPENLIVec9fe,Sports,English,Live Matches,120
+1925,CJSSPENLIVefb2f,Sports,English,Live Matches,180
+1926,CJSSPENLIVf0174,Sports,English,Live Matches,120
+1927,CJSSPENLIVf0d9d,Sports,English,Live Matches,300
+1928,CJSSPENLIVf2f98,Sports,English,Live Matches,180
+1929,CJSSPENLIVf808d,Sports,English,Live Matches,180
+1930,CJSSPENLIVfac93,Sports,English,Live Matches,120
+1931,CJSSPENLIVfc74f,Sports,English,Live Matches,180
+1932,CJSSPENLIVfe54b,Sports,English,Live Matches,90
+1933,CJSSPGULIV50f44,Sports,Gujarati,Live Matches,180
+1934,CJSSPHIDOC0c271,Sports,Hindi,Documentaries,60
+1935,CJSSPHIDOC15ea2,Sports,Hindi,Documentaries,30
+1936,CJSSPHIDOC18ead,Sports,Hindi,Documentaries,30
+1937,CJSSPHIDOC2b2c2,Sports,Hindi,Documentaries,30
+1938,CJSSPHIDOC38e78,Sports,Hindi,Documentaries,60
+1939,CJSSPHIDOC41fb2,Sports,Hindi,Documentaries,60
+1940,CJSSPHIDOC7ae73,Sports,Hindi,Documentaries,60
+1941,CJSSPHIDOC7ed16,Sports,Hindi,Documentaries,60
+1942,CJSSPHIDOC833f3,Sports,Hindi,Documentaries,90
+1943,CJSSPHIDOC84dbb,Sports,Hindi,Documentaries,120
+1944,CJSSPHIDOC88f0d,Sports,Hindi,Documentaries,60
+1945,CJSSPHIDOC8c6f8,Sports,Hindi,Documentaries,90
+1946,CJSSPHIDOCb92cc,Sports,Hindi,Documentaries,90
+1947,CJSSPHIDOCb93ca,Sports,Hindi,Documentaries,60
+1948,CJSSPHIDOCba175,Sports,Hindi,Documentaries,60
+1949,CJSSPHIDOCbed7d,Sports,Hindi,Documentaries,60
+1950,CJSSPHIDOCc7860,Sports,Hindi,Documentaries,60
+1951,CJSSPHIDOCd258b,Sports,Hindi,Documentaries,30
+1952,CJSSPHIDOCd2f8c,Sports,Hindi,Documentaries,60
+1953,CJSSPHIDOCd9be8,Sports,Hindi,Documentaries,90
+1954,CJSSPHIDOCe2e7b,Sports,Hindi,Documentaries,120
+1955,CJSSPHIDOCfcc11,Sports,Hindi,Documentaries,60
+1956,CJSSPHIHIG0a032,Sports,Hindi,Highlights,10
+1957,CJSSPHIHIG0fd58,Sports,Hindi,Highlights,20
+1958,CJSSPHIHIG24eca,Sports,Hindi,Highlights,20
+1959,CJSSPHIHIG26818,Sports,Hindi,Highlights,5
+1960,CJSSPHIHIG34308,Sports,Hindi,Highlights,30
+1961,CJSSPHIHIG370cf,Sports,Hindi,Highlights,10
+1962,CJSSPHIHIG3726a,Sports,Hindi,Highlights,15
+1963,CJSSPHIHIG3939e,Sports,Hindi,Highlights,15
+1964,CJSSPHIHIG3d0ad,Sports,Hindi,Highlights,10
+1965,CJSSPHIHIG47085,Sports,Hindi,Highlights,20
+1966,CJSSPHIHIG491fb,Sports,Hindi,Highlights,30
+1967,CJSSPHIHIG5605c,Sports,Hindi,Highlights,20
+1968,CJSSPHIHIG649a0,Sports,Hindi,Highlights,20
+1969,CJSSPHIHIG6806f,Sports,Hindi,Highlights,5
+1970,CJSSPHIHIG6db36,Sports,Hindi,Highlights,10
+1971,CJSSPHIHIG887e6,Sports,Hindi,Highlights,10
+1972,CJSSPHIHIG8f942,Sports,Hindi,Highlights,5
+1973,CJSSPHIHIG97e4f,Sports,Hindi,Highlights,10
+1974,CJSSPHIHIG9cb09,Sports,Hindi,Highlights,20
+1975,CJSSPHIHIGab029,Sports,Hindi,Highlights,15
+1976,CJSSPHIHIGb0bcf,Sports,Hindi,Highlights,20
+1977,CJSSPHIHIGb6daa,Sports,Hindi,Highlights,30
+1978,CJSSPHIHIGbfdc1,Sports,Hindi,Highlights,30
+1979,CJSSPHIHIGc8681,Sports,Hindi,Highlights,15
+1980,CJSSPHIHIGd6227,Sports,Hindi,Highlights,10
+1981,CJSSPHIHIGe3d04,Sports,Hindi,Highlights,10
+1982,CJSSPHIHIGec860,Sports,Hindi,Highlights,15
+1983,CJSSPHIHIGf9cdf,Sports,Hindi,Highlights,10
+1984,CJSSPHIHIGfb1ce,Sports,Hindi,Highlights,15
+1985,CJSSPHILIV00499,Sports,Hindi,Live Matches,90
+1986,CJSSPHILIV015f4,Sports,Hindi,Live Matches,180
+1987,CJSSPHILIV0472c,Sports,Hindi,Live Matches,120
+1988,CJSSPHILIV0c538,Sports,Hindi,Live Matches,120
+1989,CJSSPHILIV0c581,Sports,Hindi,Live Matches,120
+1990,CJSSPHILIV0c949,Sports,Hindi,Live Matches,90
+1991,CJSSPHILIV0e020,Sports,Hindi,Live Matches,120
+1992,CJSSPHILIV0f4c8,Sports,Hindi,Live Matches,300
+1993,CJSSPHILIV0fe7d,Sports,Hindi,Live Matches,90
+1994,CJSSPHILIV13e07,Sports,Hindi,Live Matches,120
+1995,CJSSPHILIV1a59e,Sports,Hindi,Live Matches,240
+1996,CJSSPHILIV1b49d,Sports,Hindi,Live Matches,120
+1997,CJSSPHILIV2136e,Sports,Hindi,Live Matches,180
+1998,CJSSPHILIV2277a,Sports,Hindi,Live Matches,120
+1999,CJSSPHILIV22f04,Sports,Hindi,Live Matches,180
+2000,CJSSPHILIV25d6a,Sports,Hindi,Live Matches,180
+2001,CJSSPHILIV25f4c,Sports,Hindi,Live Matches,90
+2002,CJSSPHILIV27192,Sports,Hindi,Live Matches,120
+2003,CJSSPHILIV28fe3,Sports,Hindi,Live Matches,120
+2004,CJSSPHILIV29179,Sports,Hindi,Live Matches,120
+2005,CJSSPHILIV2cc58,Sports,Hindi,Live Matches,120
+2006,CJSSPHILIV2dba0,Sports,Hindi,Live Matches,90
+2007,CJSSPHILIV2f63f,Sports,Hindi,Live Matches,120
+2008,CJSSPHILIV30244,Sports,Hindi,Live Matches,120
+2009,CJSSPHILIV30996,Sports,Hindi,Live Matches,90
+2010,CJSSPHILIV333da,Sports,Hindi,Live Matches,90
+2011,CJSSPHILIV37f2c,Sports,Hindi,Live Matches,120
+2012,CJSSPHILIV38885,Sports,Hindi,Live Matches,300
+2013,CJSSPHILIV39d33,Sports,Hindi,Live Matches,180
+2014,CJSSPHILIV3c820,Sports,Hindi,Live Matches,120
+2015,CJSSPHILIV3cfe6,Sports,Hindi,Live Matches,180
+2016,CJSSPHILIV3ff74,Sports,Hindi,Live Matches,120
+2017,CJSSPHILIV40bbe,Sports,Hindi,Live Matches,120
+2018,CJSSPHILIV4346f,Sports,Hindi,Live Matches,180
+2019,CJSSPHILIV49e46,Sports,Hindi,Live Matches,180
+2020,CJSSPHILIV4d429,Sports,Hindi,Live Matches,120
+2021,CJSSPHILIV505f9,Sports,Hindi,Live Matches,120
+2022,CJSSPHILIV50d4d,Sports,Hindi,Live Matches,120
+2023,CJSSPHILIV52294,Sports,Hindi,Live Matches,240
+2024,CJSSPHILIV528c0,Sports,Hindi,Live Matches,90
+2025,CJSSPHILIV5492c,Sports,Hindi,Live Matches,120
+2026,CJSSPHILIV55ef1,Sports,Hindi,Live Matches,90
+2027,CJSSPHILIV58db3,Sports,Hindi,Live Matches,90
+2028,CJSSPHILIV5d186,Sports,Hindi,Live Matches,240
+2029,CJSSPHILIV5fd5a,Sports,Hindi,Live Matches,90
+2030,CJSSPHILIV60f45,Sports,Hindi,Live Matches,90
+2031,CJSSPHILIV61954,Sports,Hindi,Live Matches,300
+2032,CJSSPHILIV64687,Sports,Hindi,Live Matches,120
+2033,CJSSPHILIV653e9,Sports,Hindi,Live Matches,120
+2034,CJSSPHILIV69908,Sports,Hindi,Live Matches,120
+2035,CJSSPHILIV69ce5,Sports,Hindi,Live Matches,90
+2036,CJSSPHILIV6b10c,Sports,Hindi,Live Matches,90
+2037,CJSSPHILIV6b994,Sports,Hindi,Live Matches,90
+2038,CJSSPHILIV71a8a,Sports,Hindi,Live Matches,90
+2039,CJSSPHILIV734e7,Sports,Hindi,Live Matches,90
+2040,CJSSPHILIV75014,Sports,Hindi,Live Matches,180
+2041,CJSSPHILIV7aaea,Sports,Hindi,Live Matches,90
+2042,CJSSPHILIV7e7a5,Sports,Hindi,Live Matches,180
+2043,CJSSPHILIV82a91,Sports,Hindi,Live Matches,180
+2044,CJSSPHILIV8342a,Sports,Hindi,Live Matches,120
+2045,CJSSPHILIV83b7c,Sports,Hindi,Live Matches,90
+2046,CJSSPHILIV87fda,Sports,Hindi,Live Matches,120
+2047,CJSSPHILIV8997b,Sports,Hindi,Live Matches,120
+2048,CJSSPHILIV89fb0,Sports,Hindi,Live Matches,120
+2049,CJSSPHILIV8a026,Sports,Hindi,Live Matches,120
+2050,CJSSPHILIV8ac65,Sports,Hindi,Live Matches,180
+2051,CJSSPHILIV8b42c,Sports,Hindi,Live Matches,120
+2052,CJSSPHILIV8f355,Sports,Hindi,Live Matches,90
+2053,CJSSPHILIV915e7,Sports,Hindi,Live Matches,120
+2054,CJSSPHILIV91a3b,Sports,Hindi,Live Matches,90
+2055,CJSSPHILIV937e4,Sports,Hindi,Live Matches,240
+2056,CJSSPHILIV93ae1,Sports,Hindi,Live Matches,120
+2057,CJSSPHILIV95d72,Sports,Hindi,Live Matches,120
+2058,CJSSPHILIV98b42,Sports,Hindi,Live Matches,180
+2059,CJSSPHILIV9c8f7,Sports,Hindi,Live Matches,180
+2060,CJSSPHILIV9d27d,Sports,Hindi,Live Matches,90
+2061,CJSSPHILIV9f363,Sports,Hindi,Live Matches,90
+2062,CJSSPHILIVa198f,Sports,Hindi,Live Matches,120
+2063,CJSSPHILIVa19c8,Sports,Hindi,Live Matches,90
+2064,CJSSPHILIVa2652,Sports,Hindi,Live Matches,120
+2065,CJSSPHILIVa410e,Sports,Hindi,Live Matches,120
+2066,CJSSPHILIVa79e4,Sports,Hindi,Live Matches,90
+2067,CJSSPHILIVaae3c,Sports,Hindi,Live Matches,180
+2068,CJSSPHILIVace45,Sports,Hindi,Live Matches,90
+2069,CJSSPHILIVb34cb,Sports,Hindi,Live Matches,120
+2070,CJSSPHILIVb3aab,Sports,Hindi,Live Matches,90
+2071,CJSSPHILIVb4e55,Sports,Hindi,Live Matches,90
+2072,CJSSPHILIVb5525,Sports,Hindi,Live Matches,180
+2073,CJSSPHILIVb64c6,Sports,Hindi,Live Matches,90
+2074,CJSSPHILIVb8849,Sports,Hindi,Live Matches,90
+2075,CJSSPHILIVb9530,Sports,Hindi,Live Matches,240
+2076,CJSSPHILIVb9a60,Sports,Hindi,Live Matches,90
+2077,CJSSPHILIVbb372,Sports,Hindi,Live Matches,180
+2078,CJSSPHILIVbb4c4,Sports,Hindi,Live Matches,120
+2079,CJSSPHILIVc48f4,Sports,Hindi,Live Matches,120
+2080,CJSSPHILIVc8026,Sports,Hindi,Live Matches,120
+2081,CJSSPHILIVc9608,Sports,Hindi,Live Matches,90
+2082,CJSSPHILIVcc92d,Sports,Hindi,Live Matches,90
+2083,CJSSPHILIVcd41c,Sports,Hindi,Live Matches,90
+2084,CJSSPHILIVce292,Sports,Hindi,Live Matches,90
+2085,CJSSPHILIVce3c0,Sports,Hindi,Live Matches,180
+2086,CJSSPHILIVceaf9,Sports,Hindi,Live Matches,120
+2087,CJSSPHILIVcebff,Sports,Hindi,Live Matches,120
+2088,CJSSPHILIVcfd2f,Sports,Hindi,Live Matches,120
+2089,CJSSPHILIVd19f5,Sports,Hindi,Live Matches,240
+2090,CJSSPHILIVd588f,Sports,Hindi,Live Matches,180
+2091,CJSSPHILIVd6922,Sports,Hindi,Live Matches,90
+2092,CJSSPHILIVd6c17,Sports,Hindi,Live Matches,90
+2093,CJSSPHILIVd7f68,Sports,Hindi,Live Matches,120
+2094,CJSSPHILIVda5fa,Sports,Hindi,Live Matches,180
+2095,CJSSPHILIVdb22b,Sports,Hindi,Live Matches,90
+2096,CJSSPHILIVdc6f3,Sports,Hindi,Live Matches,90
+2097,CJSSPHILIVe5740,Sports,Hindi,Live Matches,180
+2098,CJSSPHILIVe6376,Sports,Hindi,Live Matches,90
+2099,CJSSPHILIVe6e7d,Sports,Hindi,Live Matches,120
+2100,CJSSPHILIVe7be9,Sports,Hindi,Live Matches,90
+2101,CJSSPHILIVf10de,Sports,Hindi,Live Matches,90
+2102,CJSSPHILIVf3d09,Sports,Hindi,Live Matches,90
+2103,CJSSPHILIVf3f12,Sports,Hindi,Live Matches,120
+2104,CJSSPHILIVf5f47,Sports,Hindi,Live Matches,90
+2105,CJSSPHILIVf7b54,Sports,Hindi,Live Matches,120
+2106,CJSSPHILIVf8415,Sports,Hindi,Live Matches,120
+2107,CJSSPHILIVf9e71,Sports,Hindi,Live Matches,120
+2108,CJSSPHILIVfd3df,Sports,Hindi,Live Matches,120
+2109,CJSSPHILIVfd856,Sports,Hindi,Live Matches,90
+2110,CJSSPHILIVfdc50,Sports,Hindi,Live Matches,90
+2111,CJSSPKAHIG66cb5,Sports,Kannada,Highlights,10
+2112,CJSSPKALIV0f570,Sports,Kannada,Live Matches,90
+2113,CJSSPKALIV2294f,Sports,Kannada,Live Matches,120
+2114,CJSSPKALIV69d06,Sports,Kannada,Live Matches,120
+2115,CJSSPKALIV6f7a3,Sports,Kannada,Live Matches,240
+2116,CJSSPKALIV77528,Sports,Kannada,Live Matches,120
+2117,CJSSPKALIVb70ff,Sports,Kannada,Live Matches,120
+2118,CJSSPKALIVbfbaf,Sports,Kannada,Live Matches,90
+2119,CJSSPKALIVc6fbb,Sports,Kannada,Live Matches,120
+2120,CJSSPKALIVddff8,Sports,Kannada,Live Matches,120
+2121,CJSSPMLHIG22796,Sports,Malayalam,Highlights,15
+2122,CJSSPMLLIV44f6f,Sports,Malayalam,Live Matches,300
+2123,CJSSPMLLIV50557,Sports,Malayalam,Live Matches,180
+2124,CJSSPMLLIV8932a,Sports,Malayalam,Live Matches,120
+2125,CJSSPMLLIVce9af,Sports,Malayalam,Live Matches,300
+2126,CJSSPMLLIVd5699,Sports,Malayalam,Live Matches,90
+2127,CJSSPMLLIVe302c,Sports,Malayalam,Live Matches,120
+2128,CJSSPMRLIV4fd5f,Sports,Marathi,Live Matches,120
+2129,CJSSPMRLIV54f3d,Sports,Marathi,Live Matches,300
+2130,CJSSPMRLIV97893,Sports,Marathi,Live Matches,180
+2131,CJSSPTADOC1c4d2,Sports,Tamil,Documentaries,90
+2132,CJSSPTADOC4e71a,Sports,Tamil,Documentaries,60
+2133,CJSSPTADOC61e10,Sports,Tamil,Documentaries,30
+2134,CJSSPTADOCa9ecf,Sports,Tamil,Documentaries,60
+2135,CJSSPTAHIG1bd36,Sports,Tamil,Highlights,30
+2136,CJSSPTAHIG1c991,Sports,Tamil,Highlights,20
+2137,CJSSPTAHIG300df,Sports,Tamil,Highlights,15
+2138,CJSSPTAHIG7cc42,Sports,Tamil,Highlights,15
+2139,CJSSPTAHIG847c1,Sports,Tamil,Highlights,15
+2140,CJSSPTAHIG9da67,Sports,Tamil,Highlights,10
+2141,CJSSPTAHIG9f2c1,Sports,Tamil,Highlights,30
+2142,CJSSPTALIV0aae8,Sports,Tamil,Live Matches,180
+2143,CJSSPTALIV0fc86,Sports,Tamil,Live Matches,90
+2144,CJSSPTALIV144ee,Sports,Tamil,Live Matches,180
+2145,CJSSPTALIV15155,Sports,Tamil,Live Matches,120
+2146,CJSSPTALIV46501,Sports,Tamil,Live Matches,120
+2147,CJSSPTALIV4f8dd,Sports,Tamil,Live Matches,90
+2148,CJSSPTALIV5544c,Sports,Tamil,Live Matches,90
+2149,CJSSPTALIV7a85b,Sports,Tamil,Live Matches,180
+2150,CJSSPTALIV9c61a,Sports,Tamil,Live Matches,90
+2151,CJSSPTALIV9d90b,Sports,Tamil,Live Matches,120
+2152,CJSSPTALIVa78b7,Sports,Tamil,Live Matches,90
+2153,CJSSPTALIVb038e,Sports,Tamil,Live Matches,90
+2154,CJSSPTALIVb2acb,Sports,Tamil,Live Matches,120
+2155,CJSSPTALIVba428,Sports,Tamil,Live Matches,300
+2156,CJSSPTALIVd5c6f,Sports,Tamil,Live Matches,120
+2157,CJSSPTALIVe26d1,Sports,Tamil,Live Matches,120
+2158,CJSSPTALIVfc168,Sports,Tamil,Live Matches,180
+2159,CJSSPTEDOCcdda3,Sports,Telugu,Documentaries,120
+2160,CJSSPTEDOCd72bd,Sports,Telugu,Documentaries,60
+2161,CJSSPTEHIG35ed1,Sports,Telugu,Highlights,30
+2162,CJSSPTEHIG47ad0,Sports,Telugu,Highlights,20
+2163,CJSSPTEHIGf0083,Sports,Telugu,Highlights,15
+2164,CJSSPTELIV0b8df,Sports,Telugu,Live Matches,180
+2165,CJSSPTELIV0f824,Sports,Telugu,Live Matches,180
+2166,CJSSPTELIV153ab,Sports,Telugu,Live Matches,180
+2167,CJSSPTELIV15ceb,Sports,Telugu,Live Matches,180
+2168,CJSSPTELIV1b9a7,Sports,Telugu,Live Matches,180
+2169,CJSSPTELIV226bd,Sports,Telugu,Live Matches,90
+2170,CJSSPTELIV24e20,Sports,Telugu,Live Matches,120
+2171,CJSSPTELIV50047,Sports,Telugu,Live Matches,180
+2172,CJSSPTELIV60a87,Sports,Telugu,Live Matches,180
+2173,CJSSPTELIV6592e,Sports,Telugu,Live Matches,90
+2174,CJSSPTELIV6ec4a,Sports,Telugu,Live Matches,120
+2175,CJSSPTELIV747ac,Sports,Telugu,Live Matches,300
+2176,CJSSPTELIV7bd8c,Sports,Telugu,Live Matches,240
+2177,CJSSPTELIVa6c0e,Sports,Telugu,Live Matches,240
+2178,CJSSPTELIVc5f6c,Sports,Telugu,Live Matches,180
+2179,CJSSPTELIVf7cd3,Sports,Telugu,Live Matches,180
+2180,CJSSPUACT76fb7,Series,Punjabi,Action,45
+2181,CJSSPUACTa9897,Series,Punjabi,Action,20
+2182,CJSSPUADV42e68,Series,Punjabi,Adventure,30
+2183,CJSSPUCOM04af8,Series,Punjabi,Comedy,45
+2184,CJSSPUCOM0d5f3,Series,Punjabi,Comedy,45
+2185,CJSSPUCOM6ca45,Series,Punjabi,Comedy,30
+2186,CJSSPUCOM94b43,Series,Punjabi,Comedy,45
+2187,CJSSPUDRA46a59,Series,Punjabi,Drama,20
+2188,CJSSPUDRA9001d,Series,Punjabi,Drama,30
+2189,CJSSPUDRAb7962,Series,Punjabi,Drama,45
+2190,CJSSPUDRAc441c,Series,Punjabi,Drama,45
+2191,CJSSPUDRAc474d,Series,Punjabi,Drama,30
+2192,CJSSPUDRAe63d6,Series,Punjabi,Drama,30
+2193,CJSSPUDRAf43ec,Series,Punjabi,Drama,20
+2194,CJSSPUROMacbd1,Series,Punjabi,Romance,45
+2195,CJSSPUROMb38cf,Series,Punjabi,Romance,30
+2196,CJSSTAACT19021,Series,Tamil,Action,45
+2197,CJSSTAACT3c9b2,Series,Tamil,Action,30
+2198,CJSSTAACT4027e,Series,Tamil,Action,20
+2199,CJSSTAACT4572d,Series,Tamil,Action,30
+2200,CJSSTAACT50e58,Series,Tamil,Action,30
+2201,CJSSTAACT52b08,Series,Tamil,Action,30
+2202,CJSSTAACT530f7,Series,Tamil,Action,45
+2203,CJSSTAACT885a7,Series,Tamil,Action,45
+2204,CJSSTAACT8bc1a,Series,Tamil,Action,30
+2205,CJSSTAACT8c398,Series,Tamil,Action,45
+2206,CJSSTAACT8e186,Series,Tamil,Action,30
+2207,CJSSTAACT9fec3,Series,Tamil,Action,20
+2208,CJSSTAACTa02f7,Series,Tamil,Action,30
+2209,CJSSTAACTa0bb9,Series,Tamil,Action,45
+2210,CJSSTAACTb1a36,Series,Tamil,Action,30
+2211,CJSSTAACTd1b44,Series,Tamil,Action,30
+2212,CJSSTAACTe332a,Series,Tamil,Action,30
+2213,CJSSTAACTec045,Series,Tamil,Action,30
+2214,CJSSTAACTf267a,Series,Tamil,Action,30
+2215,CJSSTAACTf7a27,Series,Tamil,Action,30
+2216,CJSSTAACTfe0ac,Series,Tamil,Action,45
+2217,CJSSTAADV03150,Series,Tamil,Adventure,30
+2218,CJSSTACOM13733,Series,Tamil,Comedy,30
+2219,CJSSTACOM1e511,Series,Tamil,Comedy,30
+2220,CJSSTACOM32467,Series,Tamil,Comedy,30
+2221,CJSSTACOM622b4,Series,Tamil,Comedy,30
+2222,CJSSTACOM84bce,Series,Tamil,Comedy,45
+2223,CJSSTACOM926db,Series,Tamil,Comedy,45
+2224,CJSSTACOM93de3,Series,Tamil,Comedy,45
+2225,CJSSTACOMa86ce,Series,Tamil,Comedy,30
+2226,CJSSTACOMaa216,Series,Tamil,Comedy,30
+2227,CJSSTACOMbb5cd,Series,Tamil,Comedy,45
+2228,CJSSTACOMc0b34,Series,Tamil,Comedy,20
+2229,CJSSTACOMf8ba5,Series,Tamil,Comedy,30
+2230,CJSSTADRA15e77,Series,Tamil,Drama,20
+2231,CJSSTADRA24213,Series,Tamil,Drama,30
+2232,CJSSTADRA48c9d,Series,Tamil,Drama,30
+2233,CJSSTADRA5da14,Series,Tamil,Drama,30
+2234,CJSSTADRA69e6c,Series,Tamil,Drama,45
+2235,CJSSTADRAa16ec,Series,Tamil,Drama,20
+2236,CJSSTADRAa6025,Series,Tamil,Drama,20
+2237,CJSSTADRAacb1a,Series,Tamil,Drama,30
+2238,CJSSTADRAba746,Series,Tamil,Drama,30
+2239,CJSSTADRAc895a,Series,Tamil,Drama,45
+2240,CJSSTADRAcc099,Series,Tamil,Drama,30
+2241,CJSSTADRAd0a2d,Series,Tamil,Drama,30
+2242,CJSSTADRAd65aa,Series,Tamil,Drama,45
+2243,CJSSTADRAd8bfa,Series,Tamil,Drama,20
+2244,CJSSTAFAN1db14,Series,Tamil,Fantasy,45
+2245,CJSSTAFAN2d844,Series,Tamil,Fantasy,20
+2246,CJSSTAFAN30414,Series,Tamil,Fantasy,45
+2247,CJSSTAFAN3fe71,Series,Tamil,Fantasy,30
+2248,CJSSTAFANa549a,Series,Tamil,Fantasy,30
+2249,CJSSTAFANc0f0c,Series,Tamil,Fantasy,45
+2250,CJSSTAROM01c51,Series,Tamil,Romance,30
+2251,CJSSTAROM04179,Series,Tamil,Romance,30
+2252,CJSSTAROM07c75,Series,Tamil,Romance,45
+2253,CJSSTAROM1f11c,Series,Tamil,Romance,20
+2254,CJSSTAROM37951,Series,Tamil,Romance,30
+2255,CJSSTAROM50c1a,Series,Tamil,Romance,30
+2256,CJSSTAROM5d246,Series,Tamil,Romance,45
+2257,CJSSTAROM65997,Series,Tamil,Romance,30
+2258,CJSSTAROMd6b95,Series,Tamil,Romance,20
+2259,CJSSTAROMdbe06,Series,Tamil,Romance,45
+2260,CJSSTAROMe56ea,Series,Tamil,Romance,45
+2261,CJSSTAROMec03e,Series,Tamil,Romance,45
+2262,CJSSTASCI3eea6,Series,Tamil,Sci-Fi,20
+2263,CJSSTASCI7d2bc,Series,Tamil,Sci-Fi,30
+2264,CJSSTASCI87fff,Series,Tamil,Sci-Fi,30
+2265,CJSSTASCI9070a,Series,Tamil,Sci-Fi,30
+2266,CJSSTATHR035de,Series,Tamil,Thriller,30
+2267,CJSSTATHR0bebf,Series,Tamil,Thriller,30
+2268,CJSSTATHR182cd,Series,Tamil,Thriller,30
+2269,CJSSTATHR24767,Series,Tamil,Thriller,30
+2270,CJSSTATHR29e46,Series,Tamil,Thriller,20
+2271,CJSSTATHR57c69,Series,Tamil,Thriller,30
+2272,CJSSTATHR6ac9d,Series,Tamil,Thriller,20
+2273,CJSSTATHR7247d,Series,Tamil,Thriller,30
+2274,CJSSTATHR90997,Series,Tamil,Thriller,45
+2275,CJSSTATHRa0d6c,Series,Tamil,Thriller,30
+2276,CJSSTATHRc0876,Series,Tamil,Thriller,45
+2277,CJSSTATHRe7c98,Series,Tamil,Thriller,30
+2278,CJSSTEACT007be,Series,Telugu,Action,30
+2279,CJSSTEACT0d04e,Series,Telugu,Action,30
+2280,CJSSTEACT24029,Series,Telugu,Action,45
+2281,CJSSTEACT2ca2c,Series,Telugu,Action,20
+2282,CJSSTEACT3988f,Series,Telugu,Action,30
+2283,CJSSTEACT414b8,Series,Telugu,Action,20
+2284,CJSSTEACT427aa,Series,Telugu,Action,20
+2285,CJSSTEACT428a3,Series,Telugu,Action,30
+2286,CJSSTEACT6550a,Series,Telugu,Action,20
+2287,CJSSTEACT78acd,Series,Telugu,Action,45
+2288,CJSSTEACT7b3dc,Series,Telugu,Action,45
+2289,CJSSTEACT88043,Series,Telugu,Action,30
+2290,CJSSTEACT919a7,Series,Telugu,Action,20
+2291,CJSSTEACT96038,Series,Telugu,Action,30
+2292,CJSSTEACT9fe12,Series,Telugu,Action,45
+2293,CJSSTEACTc0da7,Series,Telugu,Action,45
+2294,CJSSTEACTce597,Series,Telugu,Action,30
+2295,CJSSTEACTd422f,Series,Telugu,Action,30
+2296,CJSSTEACTe6446,Series,Telugu,Action,30
+2297,CJSSTEACTf603c,Series,Telugu,Action,30
+2298,CJSSTEACTfbcd7,Series,Telugu,Action,20
+2299,CJSSTEACTfdcb7,Series,Telugu,Action,45
+2300,CJSSTEADV94ae8,Series,Telugu,Adventure,30
+2301,CJSSTEADVc0e11,Series,Telugu,Adventure,45
+2302,CJSSTEADVe14ef,Series,Telugu,Adventure,30
+2303,CJSSTEADVe7f71,Series,Telugu,Adventure,30
+2304,CJSSTECOM18f56,Series,Telugu,Comedy,30
+2305,CJSSTECOM31289,Series,Telugu,Comedy,30
+2306,CJSSTECOM778f7,Series,Telugu,Comedy,45
+2307,CJSSTECOMbc146,Series,Telugu,Comedy,45
+2308,CJSSTECOMbcae3,Series,Telugu,Comedy,30
+2309,CJSSTECOMce389,Series,Telugu,Comedy,30
+2310,CJSSTECOMd3bea,Series,Telugu,Comedy,30
+2311,CJSSTECOMdaf26,Series,Telugu,Comedy,30
+2312,CJSSTEDRA123fc,Series,Telugu,Drama,30
+2313,CJSSTEDRA19088,Series,Telugu,Drama,30
+2314,CJSSTEDRA1bf97,Series,Telugu,Drama,20
+2315,CJSSTEDRA2320f,Series,Telugu,Drama,30
+2316,CJSSTEDRA2adf9,Series,Telugu,Drama,20
+2317,CJSSTEDRA2fc3e,Series,Telugu,Drama,30
+2318,CJSSTEDRA67d84,Series,Telugu,Drama,30
+2319,CJSSTEDRA6e286,Series,Telugu,Drama,30
+2320,CJSSTEDRA936f2,Series,Telugu,Drama,30
+2321,CJSSTEDRAa0267,Series,Telugu,Drama,45
+2322,CJSSTEDRAa03af,Series,Telugu,Drama,30
+2323,CJSSTEDRAa1880,Series,Telugu,Drama,45
+2324,CJSSTEDRAa4644,Series,Telugu,Drama,45
+2325,CJSSTEDRAa4b2a,Series,Telugu,Drama,30
+2326,CJSSTEDRAe1e6b,Series,Telugu,Drama,45
+2327,CJSSTEDRAfa701,Series,Telugu,Drama,30
+2328,CJSSTEFAN39246,Series,Telugu,Fantasy,30
+2329,CJSSTEFAN428d7,Series,Telugu,Fantasy,30
+2330,CJSSTEFAN5c429,Series,Telugu,Fantasy,20
+2331,CJSSTEFAN7055f,Series,Telugu,Fantasy,30
+2332,CJSSTEFAN715f2,Series,Telugu,Fantasy,30
+2333,CJSSTEFAN786f5,Series,Telugu,Fantasy,30
+2334,CJSSTEFAN7e4f4,Series,Telugu,Fantasy,20
+2335,CJSSTEFAN91173,Series,Telugu,Fantasy,20
+2336,CJSSTEROM25078,Series,Telugu,Romance,30
+2337,CJSSTEROM2abf2,Series,Telugu,Romance,30
+2338,CJSSTEROM36a86,Series,Telugu,Romance,45
+2339,CJSSTEROM48a28,Series,Telugu,Romance,20
+2340,CJSSTEROM4b568,Series,Telugu,Romance,30
+2341,CJSSTEROM6e318,Series,Telugu,Romance,20
+2342,CJSSTEROM71eb1,Series,Telugu,Romance,45
+2343,CJSSTEROM81915,Series,Telugu,Romance,30
+2344,CJSSTEROM9e65c,Series,Telugu,Romance,45
+2345,CJSSTEROMc936f,Series,Telugu,Romance,45
+2346,CJSSTEROMdacab,Series,Telugu,Romance,30
+2347,CJSSTEROMfa9a6,Series,Telugu,Romance,30
+2348,CJSSTESCI08bfa,Series,Telugu,Sci-Fi,30
+2349,CJSSTESCIb3f7d,Series,Telugu,Sci-Fi,45
+2350,CJSSTESCIc0696,Series,Telugu,Sci-Fi,30
+2351,CJSSTESCIf5911,Series,Telugu,Sci-Fi,30
+2352,CJSSTETHR11c31,Series,Telugu,Thriller,20
+2353,CJSSTETHR17125,Series,Telugu,Thriller,30
+2354,CJSSTETHR64f58,Series,Telugu,Thriller,45
+2355,CJSSTETHR767c0,Series,Telugu,Thriller,20
+2356,CJSSTETHR8b80e,Series,Telugu,Thriller,30
+2357,CJSSTETHR92817,Series,Telugu,Thriller,45
+2358,CJSSTETHRccd4d,Series,Telugu,Thriller,30
+2359,CJSSTETHRdfb63,Series,Telugu,Thriller,45
